@@ -5867,6 +5867,16 @@
   pages        = {65--87},
 }
 
+@Article{Freitagal16,
+  author       = {Freitag, Raquel Meister Ko. and Severo, Christine G\"{o}rski and Rost-Snichelotto, Claudia Andrea and Tavares, Maria Alice},
+  journaltitle = {Todas as Letras},
+  title        = {Como os brasileiros acham que falam? Percep\c{c}\~{o}es sociolingu\'{i}sticas de universit\'{a}rios do {S}ul e do {N}ordeste},
+  volume       = {18},
+  year         = {2016},
+  number       = {2},
+  pages        = {64--84},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
