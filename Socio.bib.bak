@@ -5858,6 +5858,15 @@
   publisher = {{ONG} {S}emente dos {S}onhos},
 }
 
+@Article{Freitagal15,
+  author       = {Freitag, Raquel Meister Ko. and Severo, Christine G\"{o}rski and Rost-Snichelotto, Claudia Andrea and Tavares, Maria Alice},
+  journaltitle = {Signo y Se\~{n}a},
+  title        = {Como o brasileiro acha que fala? Desafios e propostas para a caracteriza\c{c}\~{a}o do ``portugu\^{e}s brasileiro''},
+  year         = {2015},
+  number       = {28},
+  pages        = {65--87},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
