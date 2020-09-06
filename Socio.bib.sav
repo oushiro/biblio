@@ -5840,7 +5840,7 @@
   publisher = {New York: Palgrave MacMillan},
 }
 
-@WWW{Oushiro18,
+@Online{Oushiro18c,
   author  = {Oushiro, Livia},
   date    = {2018},
   title   = {\'{E} poss\'{i}vel saber a classe social de uma pessoa s\'{o} de ouvi-la?},
@@ -5854,7 +5854,7 @@
   booktitle = {Dicion\'{a}rio: rumo \`{a} civiliza\c{c}\~{a}o da religa\c{c}\~{a}o e ao bem viver},
   date      = {prelo},
   title     = {Respeito lingu\'{i}stico},
-  editor    = {Arnt, Rosamaria de Medeiros and Scherre, Paula},
+  editor    = {Arnt, Rosamaria de Medeiros and Scherre, Paula Pereira},
   publisher = {{ONG} {S}emente dos {S}onhos},
 }
 
