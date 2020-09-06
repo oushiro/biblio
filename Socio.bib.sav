@@ -5696,9 +5696,10 @@
   date         = {1999},
   journaltitle = {Journal of language and social psychology},
   title        = {Perceptual and phonetic experiments on American English dialect identification},
+  volume       = {18},
+  year         = {1999},
   number       = {1},
   pages        = {10--30},
-  volume       = {18},
 }
 
 @Article{Labov91,
@@ -5871,11 +5872,24 @@
 @Article{Freitagal16,
   author       = {Freitag, Raquel Meister Ko. and Severo, Christine G\"{o}rski and Rost-Snichelotto, Claudia Andrea and Tavares, Maria Alice},
   journaltitle = {Todas as Letras},
-  title        = {Como os brasileiros acham que falam? Percep\c{c}\~{o}es sociolingu\'{i}sticas de universit\'{a}rios do {S}ul e do {N}ordeste},
+  title        = {Como os brasileiros acham que falam? {P}ercep\c{c}\~{o}es sociolingu\'{i}sticas de universit\'{a}rios do {S}ul e do {N}ordeste},
   volume       = {18},
   year         = {2016},
   number       = {2},
   pages        = {64--84},
+}
+
+@Article{,
+}
+
+@Article{GowRos69,
+  author       = {Gower, J.C. and Ross, G.J.S.},
+  journaltitle = {Journal of the Royal Statistical Society. Series C (Applied Statistics)},
+  title        = {Minimum Spanning Trees and Single Linkage Cluster Analysis},
+  volume       = {18},
+  year         = {1969},
+  number       = {1},
+  pages        = {54--64},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
