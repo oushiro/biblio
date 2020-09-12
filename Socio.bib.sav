@@ -1603,15 +1603,16 @@
 	Title = {Norma padr\~{a}o brasileira: desembara\c{c}ando alguns n\'{o}s},
 	Year = {2002}}
 
-@incollection{Faraco06,
-	Author = {Faraco, Carlos Alberto},
-	Bookauthor = {Weinreich, Uriel and Labov, William and Herzog, Marvin},
-	Booktitle = {Fundamentos emp\'{i}ricos para uma teoria da mudan\c{c}a lingu\'{i}stica},
-	Editor = {Weinreich, U. and Labov, William and Herzog, Marvin},
-	Pages = {9--19},
-	Publisher = {S\~{a}o Paulo: Par\'{a}bola},
-	Title = {Apresenta\c{c}\~{a}o de um cl\'{a}ssico},
-	Year = {2006}}
+@Incollection{Faraco06,
+  author     = {Faraco, Carlos Alberto},
+  booktitle  = {Fundamentos emp\'{i}ricos para uma teoria da mudan\c{c}a lingu\'{i}stica},
+  title      = {Apresenta\c{c}\~{a}o de um cl\'{a}ssico},
+  year       = {2006},
+  editor     = {Weinreich, U. and Labov, William and Herzog, Marvin},
+  pages      = {9--9},
+  publisher  = {S\~{a}o Paulo: Par\'{a}bola},
+  bookauthor = {Weinreich, Uriel and Labov, William and Herzog, Marvin},
+}
 
 @book{Fernandes96,
 	Author = {Fernandes, Marisa},
