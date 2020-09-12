@@ -1609,7 +1609,7 @@
   title      = {Apresenta\c{c}\~{a}o de um cl\'{a}ssico},
   year       = {2006},
   editor     = {Weinreich, U. and Labov, William and Herzog, Marvin},
-  pages      = {9--9},
+  pages      = {9--29},
   publisher  = {S\~{a}o Paulo: Par\'{a}bola},
   bookauthor = {Weinreich, Uriel and Labov, William and Herzog, Marvin},
 }
@@ -5272,15 +5272,17 @@
 	Year = {2011},
 	Bdsk-Url-1 = {http://www.sociodialeto.com.br/edicoes/9/28092011063729.pdf}}
 
-@incollection{Votre04,
-	Author = {Votre, Sebasti\~{a}o Josu\'{e}},
-	Booktitle = {Introdu\c{c}\~{a}o \`{a} sociolingu\'{i}stica: o estudo da varia\c{c}\~{a}o},
-	Editor = {Mollica, Maria Cecilia and Braga, Maria Luiza},
-	Owner = {Livia},
-	Publisher = {S\~{a}o Paulo: Editora Contexto},
-	Timestamp = {2014.09.15},
-	Title = {Relev\^{a}ncia da vari\'{a}vel escolaridade},
-	Year = {2004}}
+@Incollection{Votre04,
+  author    = {Votre, Sebasti\~{a}o Josu\'{e}},
+  booktitle = {Introdu\c{c}\~{a}o \`{a} sociolingu\'{i}stica: o estudo da varia\c{c}\~{a}o},
+  title     = {Relev\^{a}ncia da vari\'{a}vel escolaridade},
+  year      = {2004},
+  editor    = {Mollica, Maria Cecilia and Braga, Maria Luiza},
+  pages     = {51--57},
+  publisher = {S\~{a}o Paulo: Editora Contexto},
+  owner     = {Livia},
+  timestamp = {2014.09.15},
+}
 
 @book{Votre78,
 	Author = {Votre, Sebasti\~{a}o Josu\'{e}},
@@ -5838,6 +5840,7 @@
   author    = {Coupland, Nikolas and Jaworski, Adam},
   date      = {1997},
   title     = {Sociolinguistics: a reader and a coursebook},
+  year      = {1},
   editor    = {Coupland, Nikolas and Jaworski, Adam},
   publisher = {New York: Palgrave MacMillan},
 }
