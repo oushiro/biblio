@@ -5840,7 +5840,7 @@
   author    = {Coupland, Nikolas and Jaworski, Adam},
   date      = {1997},
   title     = {Sociolinguistics: a reader and a coursebook},
-  year      = {1},
+  year      = {1997},
   editor    = {Coupland, Nikolas and Jaworski, Adam},
   publisher = {New York: Palgrave MacMillan},
 }
@@ -5894,6 +5894,16 @@
   year         = {1969},
   number       = {1},
   pages        = {54--64},
+}
+
+@Article{Guy16,
+  author       = {Guy, Gregory R.},
+  journaltitle = {Cadernos de Estudos Lingu\'{i}sticos},
+  title        = {English in New York, 50 years after},
+  volume       = {58},
+  year         = {2016},
+  number       = {3},
+  pages        = {5},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
