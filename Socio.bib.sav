@@ -5922,6 +5922,16 @@
   number       = {2},
 }
 
+@Article{CilFlo16,
+  author       = {Ciller, Julio Fernandez Cordero and Florez, Carmen Fernandez},
+  journaltitle = {Todas as Letras},
+  title        = {On attitudes towards {S}panish varieties: a bilingual perspective},
+  volume       = {18},
+  year         = {2016},
+  number       = {2},
+  pages        = {9},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:

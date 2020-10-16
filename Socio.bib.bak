@@ -5913,6 +5913,25 @@
   pages        = {5},
 }
 
+@Article{Lopesetal16,
+  author       = {Lopes, Celia Regina dos Santos and Oliveira, Thiago Laurentino de and Carvalho, Bruna Brasil Albuquerque de},
+  journaltitle = {Todas as Letras},
+  title        = {A express\~{a}o da 2a pessoa do singular: varia\c{c}\~{a}o e percep\c{c}\~{a}o numa abordagem experimental},
+  volume       = {18},
+  year         = {2016},
+  number       = {2},
+}
+
+@Article{CilFlo16,
+  author       = {Ciller, Julio Fernandez Cordero and Florez, Carmen Fernandez},
+  journaltitle = {Todas as Letras},
+  title        = {On attitudes towards {S}panish varieties: a bilingual perspective},
+  volume       = {18},
+  year         = {2016},
+  number       = {2},
+  pages        = {98--116},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
