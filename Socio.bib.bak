@@ -5933,6 +5933,16 @@
   pages        = {98--116},
 }
 
+@Article{SorMen16,
+  author       = {Soriano, Larissa Grasiela Mendes and Mendes, Ronald Beline},
+  journaltitle = {Todas as Letras},
+  title        = {Percep\c{c}\~{o}es fon\'{e}ticas do (-r) em {S}\~{a}o {P}aulo: principais correla\c{c}\~{o}es},
+  volume       = {18},
+  year         = {2016},
+  number       = {2},
+  pages        = {133-146},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
