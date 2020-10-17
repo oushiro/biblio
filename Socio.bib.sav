@@ -5823,10 +5823,11 @@
   date         = {2016},
   journaltitle = {Todas as Letras},
   title        = {Significados sociais do ingliding de vogais tônicas no portugu\^{e}s falado em {P}orto {A}alegre ({RS})},
+  volume       = {18},
+  year         = {2},
   number       = {2},
   pages        = {14--29},
   url          = {http://dx.doi.org/10.15529/1980-6914/letras.v18n2p14-29},
-  volume       = {18},
 }
 
 @Book{Podesva06,
@@ -5958,7 +5959,7 @@
   volume       = {18},
   year         = {2016},
   number       = {2},
-  pages        = {4},
+  pages        = {46--63},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
