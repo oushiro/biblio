@@ -5833,7 +5833,7 @@
   author    = {Podesva, Robert J.},
   date      = {2006},
   title     = {Phonetic detail in sociolinguistic variation: its linguistic significance and role in the construction of social meaning},
-  year      = {2},
+  year      = {2006},
   publisher = {Tese de Doutorado. Stanford, CA: Stanford University},
 }
 
@@ -5949,6 +5949,16 @@
   title     = {How to do {L}inguistics with {R}. Data exploration and statistical analysis},
   year      = {2015},
   publisher = {Amsterdam: John Benjamins},
+}
+
+@Article{CamSal16,
+  author       = {Camacho, Roberto Gomes and Salom\~{a}o-Conchalo, Mircia Hermegenildo},
+  journaltitle = {A varia\c{c}\~{a}o de plural no {SN} como um indexador de identidade},
+  title        = {Todas as Letras},
+  volume       = {18},
+  year         = {2016},
+  number       = {2},
+  pages        = {4},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
