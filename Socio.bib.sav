@@ -5972,6 +5972,15 @@
   number       = {1},
 }
 
+@Article{Kibler12,
+  author       = {Campbell-Kibler, Kathryn},
+  journaltitle = {Lingua},
+  title        = {The {I}mplicit {A}ssociation {T}est and sociolinguistic meaning},
+  volume       = {122},
+  year         = {2012},
+  pages        = {7},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
