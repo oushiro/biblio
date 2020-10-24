@@ -5806,6 +5806,7 @@
   author    = {Salom\~{a}o-Conchalo, Mircia Hermenegildo},
   date      = {2015},
   title     = {A varia\c{c}\~{a}o estil\'{i}stica na concord\^{a}ncia nominal e verbal como constru\c{c}\~{a}o de identidade social},
+  year      = {2015},
   publisher = {S\~{a}o Jos\'{e} do Rio Preto: IBILCE/UNESP},
 }
 
@@ -5824,7 +5825,7 @@
   journaltitle = {Todas as Letras},
   title        = {Significados sociais do ingliding de vogais tônicas no portugu\^{e}s falado em {P}orto {A}alegre ({RS})},
   volume       = {18},
-  year         = {2},
+  year         = {2016},
   number       = {2},
   pages        = {14--29},
   url          = {http://dx.doi.org/10.15529/1980-6914/letras.v18n2p14-29},
@@ -5960,6 +5961,15 @@
   year         = {2016},
   number       = {2},
   pages        = {46--63},
+}
+
+@Article{Biasibetti20,
+  author       = {Biasibetti, Ana Paula Correa da Silva},
+  journaltitle = {Journal of Portuguese Linguistics},
+  title        = {Cognitive biases on the social perception of the allophonic variation of coda /S/ in Brazilian Portuguese},
+  volume       = {19},
+  year         = {2020},
+  number       = {1},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
