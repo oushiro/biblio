@@ -5985,7 +5985,14 @@
   author    = {Santos, Viviane Maia dos},
   title     = {``Tu vai para onde?... Voc\^{e} vai para onde?'': manifesta\c{c}\~{o}es da segunda pessoa na fala carioca},
   year      = {2012},
-  publisher = {D},
+  publisher = {Disserta\c{c}\~{a}o de Mestrado. Rio de Janeiro: UFRJ},
+}
+
+@Book{Lucca17,
+  author    = {Lucca, Julia Frascarelli},
+  title     = {O di\'{a}rio moderno de um motoboy em {S}\~{a}o {P}aulo: constru\c{c}\~{a}o identit\'{a}ria e recursos estil\'{i}sticos},
+  year      = {2017},
+  publisher = {T},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
