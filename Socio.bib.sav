@@ -5972,13 +5972,20 @@
   number       = {1},
 }
 
-@Article{Kibler12,
+@Article{Campbell-Kibler2012,
   author       = {Campbell-Kibler, Kathryn},
   journaltitle = {Lingua},
   title        = {The {I}mplicit {A}ssociation {T}est and sociolinguistic meaning},
   volume       = {122},
   year         = {2012},
-  pages        = {7},
+  pages        = {753--763},
+}
+
+@Book{Santos12,
+  author    = {Santos, Viviane Maia dos},
+  title     = {``Tu vai para onde?... Voc\^{e} vai para onde?'': manifesta\c{c}\~{o}es da segunda pessoa na fala carioca},
+  year      = {2012},
+  publisher = {D},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
