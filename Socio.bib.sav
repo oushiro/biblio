@@ -5751,7 +5751,7 @@
 @Article{Milroyetal94,
   author       = {Milroy, James and Milroy, Lesley and Hartley, Sue and Walshaw, David},
   journaltitle = {Language Variation and Change},
-  title        = {Glottal stops and Tyneside glottalization: Competing patterns of variation and change in British English},
+  title        = {Glottal stops and {T}yneside glottalization: Competing patterns of variation and change in {B}ritish {E}nglish},
   year         = {1994},
   number       = {6},
   pages        = {327--58},
@@ -5993,6 +5993,14 @@
   title     = {O di\'{a}rio moderno de um motoboy em {S}\~{a}o {P}aulo: constru\c{c}\~{a}o identit\'{a}ria e recursos estil\'{i}sticos},
   year      = {2017},
   publisher = {Tese de Doutorado. Campinas: IEL/UNICAMP},
+}
+
+@Unpublished{Sankoffnd,
+  author  = {Sankoff, Gillian},
+  title   = {Age: Apparent time and real time},
+  url     = {https://www.ling.upenn.edu/~gillian/PAPERS/Sankoff.Age,AT,RT.pdf},
+  urldate = {2020-11-08},
+  year    = {n},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
