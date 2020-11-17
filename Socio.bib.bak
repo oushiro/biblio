@@ -6003,6 +6003,16 @@
   year    = {nd},
 }
 
+@Article{BBS20,
+  author       = {Brand\~{a}o, Silvia Maria and Biazolli, Caroline Carnielli and Sene, Marcus Garcia de},
+  journaltitle = {Revista Falange Mi\'{u}da},
+  title        = {Preconceito lingu\'{i}stico dentro e fora da rede: o projeto, constru\c{c}\~{a}o dos corpora e os resultados preliminares},
+  volume       = {5},
+  year         = {2020},
+  number       = {2},
+  pages        = {222--243},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
