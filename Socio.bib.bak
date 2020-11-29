@@ -517,15 +517,17 @@
 	Title = {Os r\'{o}ticos revisitados},
 	Year = {2003}}
 
-@misc{Adams19,
-	Author = {Adams, Julia Bahia},
-	Howpublished = {P\^{o}ster apresentado no {ABRALIN} 50},
-	Month = {mai},
-	Note = {Ms.},
-	Owner = {livia},
-	Timestamp = {2019.11.30},
-	Title = {Um estudo sobre preposition stranding e orphaning em falantes de portugu\^{e}s brasileiro},
-	Year = {2019}}
+@Misc{Adams19,
+  author       = {Adams, Julia Bahia},
+  date         = {2019},
+  title        = {Um estudo sobre preposition stranding e orphaning em falantes de portugu\^{e}s brasileiro},
+  year         = {2019},
+  howpublished = {P\^{o}ster apresentado no {ABRALIN} 50},
+  note         = {Ms.},
+  month        = {mai},
+  owner        = {livia},
+  timestamp    = {2019.11.30},
+}
 
 @book{Almeida62,
 	Author = {Almeida, Napole\~{a}o Mendes de},
@@ -6011,6 +6013,14 @@
   year         = {2020},
   number       = {2},
   pages        = {222--243},
+}
+
+@Misc{Miller20,
+  author = {Miller, Daniel},
+  date   = {2017-08-24},
+  title  = {https://www.youtube.com/watch?v=XNus-xZ7_6Y},
+  year   = {2017},
+  url    = {https://youtu.be/NSiTrYB-0so},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
