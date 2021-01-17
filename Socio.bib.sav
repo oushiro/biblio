@@ -3109,16 +3109,17 @@
 	Title = {A pron\'{u}ncia retroflexa do /-r/ na fala paulistana},
 	Year = {2011}}
 
-@incollection{Mendes16,
-	Author = {Mendes, Ronald Beline},
-	Booktitle = {Language, sexuality and power: studies in intersectional sociolinguistics},
-	Editor = {Levon, Erez and Mendes, Ronald Beline},
-	Owner = {Livia},
-	Pages = {105--129},
-	Publisher = {Oxford: Oxford University Press},
-	Timestamp = {2014.06.17},
-	Title = {Nonstandard Noun Phrase Agreement as an Index of Masculinity},
-	Year = {2016}}
+@Incollection{Mendes16a,
+  author    = {Mendes, Ronald Beline},
+  booktitle = {Language, sexuality and power: studies in intersectional sociolinguistics},
+  title     = {Nonstandard Noun Phrase Agreement as an Index of Masculinity},
+  year      = {2016},
+  editor    = {Levon, Erez and Mendes, Ronald Beline},
+  pages     = {105--129},
+  publisher = {Oxford: Oxford University Press},
+  owner     = {Livia},
+  timestamp = {2014.06.17},
+}
 
 @article{Mendesprelo,
 	Author = {Mendes, Ronald Beline},
@@ -6037,6 +6038,26 @@
   year         = {2016},
   number       = {28},
   pages        = {139--167},
+}
+
+@Article{Mendes16b,
+  author       = {Mendes, Ronald Beline},
+  journaltitle = {Cadernos de Estudos Lingu\'{i}sticos},
+  title        = {Diphthongized (EN) and the indexation of femininity and {P}aulistanity},
+  volume       = {58},
+  year         = {2016},
+  number       = {3},
+  pages        = {425--444},
+}
+
+@Phdthesis{,
+}
+
+@Book{Mendes18,
+  author    = {Mendes, Ronald Beline},
+  title     = {Percep\c{c}\~{a}o e performance de masculinidades},
+  year      = {2018},
+  publisher = {Tese de Livre Doc\^{e}ncia. S\~{a}o Paulo: {FFLCH-USP}},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
