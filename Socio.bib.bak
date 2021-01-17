@@ -5553,12 +5553,12 @@
   pages     = {91--100},
 }
 
-@Article{MenOus15,
+@Article{MenOus15a,
   author  = {Mendes, Ronald Beline and Oushiro, Livia},
   title   = {Variable number agreement in {B}razilian {P}ortuguese: an overview},
-  journal = {Language and Linguistics Compass},
   year    = {2015},
   pages   = {358--368},
+  journal = {Language and Linguistics Compass},
 }
 
 @Online{Scherre20,
@@ -6021,6 +6021,21 @@
   title  = {Digital {A}nthropology {D}aniel {M}iller},
   year   = {2017},
   url    = {https://www.youtube.com/watch?v=XNus-xZ7_6Y},
+}
+
+@Misc{MenOus15b,
+  author = {Mendes, Ronald Beline and Oushiro, Livia},
+  title  = {Diverging social perceptions: coda (-r) and variable number agreement in {S}\~{a}o {P}aulo {P}ortuguese},
+  year   = {2015},
+  note   = {Trabalho apresentado no NWAV44.},
+}
+
+@Article{Oushiro15c,
+  author       = {Oushiro, Livia},
+  journaltitle = {Signo y {S}e\ ~{n}a},
+  title        = {O que se diz e como se fala: rela\c{c}\~{o}es entre o discurso metalingu\'{i}stico e a varia\c{c}\~{a}o lingu\'{i}stica},
+  year         = {2016},
+  number       = {28},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

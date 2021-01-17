@@ -6027,7 +6027,16 @@
   author = {Mendes, Ronald Beline and Oushiro, Livia},
   title  = {Diverging social perceptions: coda (-r) and variable number agreement in {S}\~{a}o {P}aulo {P}ortuguese},
   year   = {2015},
-  note   = {T},
+  note   = {Trabalho apresentado no NWAV44.},
+}
+
+@Article{Oushiro15c,
+  author       = {Oushiro, Livia},
+  journaltitle = {Signo y {S}e\ ~{n}a},
+  title        = {O que se diz e como se fala: rela\c{c}\~{o}es entre o discurso metalingu\'{i}stico e a varia\c{c}\~{a}o lingu\'{i}stica},
+  year         = {2016},
+  number       = {28},
+  pages        = {1},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
