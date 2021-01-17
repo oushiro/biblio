@@ -5930,13 +5930,13 @@
 }
 
 @Article{CilFlo16,
-  author       = {Ciller, Julio Fernandez Cordero and Florez, Carmen Fernandez},
-  journaltitle = {Todas as Letras},
-  title        = {On attitudes towards {S}panish varieties: a bilingual perspective},
-  volume       = {18},
-  year         = {2016},
-  number       = {2},
-  pages        = {98--116},
+  author  = {Ciller, Julio Fernandez Cordero and Florez, Carmen Fernandez},
+  title   = {On attitudes towards {S}panish varieties: a bilingual perspective},
+  volume  = {18},
+  year    = {2016},
+  number  = {2},
+  pages   = {98--116},
+  journal = {Todas as Letras},
 }
 
 @Article{SorMen16,
@@ -6032,12 +6032,11 @@
 }
 
 @Article{Oushiro15c,
-  author       = {Oushiro, Livia},
-  journaltitle = {Signo y {S}e\~{n}a},
-  title        = {O que se diz e como se fala: rela\c{c}\~{o}es entre o discurso metalingu\'{i}stico e a varia\c{c}\~{a}o lingu\'{i}stica},
-  year         = {2016},
-  number       = {28},
-  pages        = {139--167},
+  author = {Oushiro, Livia},
+  title  = {O que se diz e como se fala: rela\c{c}\~{o}es entre o discurso metalingu\'{i}stico e a varia\c{c}\~{a}o lingu\'{i}stica},
+  year   = {2016},
+  number = {28},
+  pages  = {139--167},
 }
 
 @Article{Mendes16b,
