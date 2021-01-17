@@ -6087,6 +6087,13 @@
   publisher = {Disserta\c{c}\~{a}o de {M}estrado. S\~{a}o {P}aulo: {FFLCH-USP}},
 }
 
+@Book{Drager18,
+  author    = {Drager, Katie},
+  title     = {Experimental Research Methods in Sociolinguistics},
+  year      = {2018},
+  publisher = {:},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:

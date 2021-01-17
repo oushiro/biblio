@@ -6081,9 +6081,10 @@
 }
 
 @Book{Barcellos20,
-  author = {Barcellos, Maria Eug\^{e}nia Martins},
-  title  = {O falar paulistano e os significados sociais de (AN): correla\c{c}\~{o}es entre origem do ouvinte e percep\c{c}\~{a}o},
-  year   = {2020},
+  author    = {Barcellos, Maria Eug\^{e}nia Martins},
+  title     = {O falar paulistano e os significados sociais de (AN): correla\c{c}\~{o}es entre origem do ouvinte e percep\c{c}\~{a}o},
+  year      = {2020},
+  publisher = {Disserta\c{c}\~{a}o de {M}estrado. S\~{a}o {P}aulo: {FFLCH-USP}},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
