@@ -5557,7 +5557,9 @@
 @Article{MenOus15a,
   author  = {Mendes, Ronald Beline and Oushiro, Livia},
   title   = {Variable number agreement in {B}razilian {P}ortuguese: an overview},
+  volume  = {9},
   year    = {2015},
+  number  = {9},
   pages   = {358--368},
   journal = {Language and Linguistics Compass},
 }
@@ -5698,14 +5700,14 @@
 }
 
 @Article{PIB99,
-  author       = {Purnell, Thomas and Idsardi, William and Baugh, John},
-  date         = {1999},
-  journaltitle = {Journal of language and social psychology},
-  title        = {Perceptual and phonetic experiments on American English dialect identification},
-  volume       = {18},
-  year         = {1999},
-  number       = {1},
-  pages        = {10--30},
+  author  = {Purnell, Thomas and Idsardi, William and Baugh, John},
+  date    = {1999},
+  title   = {Perceptual and phonetic experiments on American English dialect identification},
+  volume  = {18},
+  year    = {1999},
+  number  = {1},
+  pages   = {10--30},
+  journal = {Journal of language and social psychology},
 }
 
 @Article{Labov91,
@@ -5814,12 +5816,13 @@
 }
 
 @Article{Silverstein03,
-  author       = {Silverstein, Michael},
-  date         = {2003},
-  journaltitle = {Language and Communication},
-  title        = {Indexical order and the dialectics of sociolinguistic life},
-  number       = {23},
-  pages        = {193--229},
+  author  = {Silverstein, Michael},
+  date    = {2003},
+  title   = {Indexical order and the dialectics of sociolinguistic life},
+  year    = {2003},
+  number  = {23},
+  pages   = {193--229},
+  journal = {Language and Communication},
 }
 
 @Article{BatOli16,
@@ -5871,22 +5874,22 @@
 }
 
 @Article{Freitagal15,
-  author       = {Freitag, Raquel Meister Ko. and Severo, Christine G\"{o}rski and Rost-Snichelotto, Claudia Andrea and Tavares, Maria Alice},
-  journaltitle = {Signo y Se\~{n}a},
-  title        = {Como o brasileiro acha que fala? Desafios e propostas para a caracteriza\c{c}\~{a}o do ``portugu\^{e}s brasileiro''},
-  year         = {2015},
-  number       = {28},
-  pages        = {65--87},
+  author  = {Freitag, Raquel Meister Ko. and Severo, Christine G\"{o}rski and Rost-Snichelotto, Claudia Andrea and Tavares, Maria Alice},
+  title   = {Como o brasileiro acha que fala? Desafios e propostas para a caracteriza\c{c}\~{a}o do ``portugu\^{e}s brasileiro''},
+  year    = {2015},
+  number  = {28},
+  pages   = {65--87},
+  journal = {Signo y Se\~{n}a},
 }
 
 @Article{Freitagal16,
-  author       = {Freitag, Raquel Meister Ko. and Severo, Christine G\"{o}rski and Rost-Snichelotto, Claudia Andrea and Tavares, Maria Alice},
-  journaltitle = {Todas as Letras},
-  title        = {Como os brasileiros acham que falam? {P}ercep\c{c}\~{o}es sociolingu\'{i}sticas de universit\'{a}rios do {S}ul e do {N}ordeste},
-  volume       = {18},
-  year         = {2016},
-  number       = {2},
-  pages        = {64--84},
+  author  = {Freitag, Raquel Meister Ko. and Severo, Christine G\"{o}rski and Rost-Snichelotto, Claudia Andrea and Tavares, Maria Alice},
+  title   = {Como os brasileiros acham que falam? {P}ercep\c{c}\~{o}es sociolingu\'{i}sticas de universit\'{a}rios do {S}ul e do {N}ordeste},
+  volume  = {18},
+  year    = {2016},
+  number  = {2},
+  pages   = {64--84},
+  journal = {Todas as Letras},
 }
 
 @Article{Gumperz62,
@@ -5920,13 +5923,13 @@
 }
 
 @Article{Lopesetal16,
-  author       = {Lopes, Celia Regina dos Santos and Oliveira, Thiago Laurentino de and Carvalho, Bruna Brasil Albuquerque de},
-  journaltitle = {Todas as Letras},
-  title        = {A express\~{a}o da 2a pessoa do singular: varia\c{c}\~{a}o e percep\c{c}\~{a}o numa abordagem experimental},
-  volume       = {18},
-  year         = {2016},
-  number       = {2},
-  pages        = {117--132},
+  author  = {Lopes, Celia Regina dos Santos and Oliveira, Thiago Laurentino de and Carvalho, Bruna Brasil Albuquerque de},
+  title   = {A express\~{a}o da 2a pessoa do singular: varia\c{c}\~{a}o e percep\c{c}\~{a}o numa abordagem experimental},
+  volume  = {18},
+  year    = {2016},
+  number  = {2},
+  pages   = {117--132},
+  journal = {Todas as Letras},
 }
 
 @Article{CilFlo16,
@@ -5969,7 +5972,7 @@
 @Article{Biasibetti20,
   author       = {Biasibetti, Ana Paula Correa da Silva},
   journaltitle = {Journal of Portuguese Linguistics},
-  title        = {Cognitive biases on the social perception of the allophonic variation of coda /S/ in Brazilian Portuguese},
+  title        = {Cognitive biases on the social perception of the allophonic variation of coda /{S}/ in {B}razilian {P}ortuguese},
   volume       = {19},
   year         = {2020},
   number       = {1},
@@ -6091,7 +6094,7 @@
   author    = {Drager, Katie},
   title     = {Experimental Research Methods in Sociolinguistics},
   year      = {2018},
-  publisher = {:},
+  publisher = {London: Bloomsbury},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
