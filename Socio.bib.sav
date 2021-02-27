@@ -6182,6 +6182,17 @@
 @Book{,
 }
 
+@Misc{Oushiro1,
+  author       = {Oushiro, Livia},
+  title        = {Introdu\c{c}\~{a}o \`{a} Estat\'{i}stica para Linguistas, v.2.0},
+  year         = {2021},
+  howpublished = {Dispon\'{i}vel em http://rpubs.com/oushiro/iel.},
+  note         = {Licen\c{c}a Creative Commons 4.0 Atribui\c{c}\~{a}o -- N\~{a}o comercial.},
+  month        = {dez},
+  owner        = {livia},
+  timestamp    = {2019.12.01},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
