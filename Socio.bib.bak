@@ -6135,6 +6135,17 @@
   publisher = {Sebastopol: O'Reilley},
 }
 
+@Book{,
+}
+
+@Unpublished{Fowler,
+  author = {Fowler, Joy},
+  date   = {1986},
+  title  = {The social stratification of (r) in New York City department stores, 24 years afterLabov},
+  note   = {Ms.},
+  year   = {1986},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:

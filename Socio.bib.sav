@@ -6138,6 +6138,21 @@
 @Book{,
 }
 
+@Unpublished{Fowler,
+  author = {Fowler, Joy},
+  date   = {1986},
+  title  = {The social stratification of (r) in New York City department stores, 24 years afterLabov},
+  note   = {Ms.},
+  year   = {1986},
+}
+
+@Unpublished{Guyal08,
+  author = {Guy, Gregory and Furukawa, Alex and Hackney, Sarah and Mahboob, Rubaiyat and Mandel, Ethan and Waddy, Kylie},
+  title  = {Replicating {L}abov’s study of (r) in New York City department stores},
+  note   = {Ms.},
+  year   = {2},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
