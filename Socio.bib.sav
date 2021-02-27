@@ -1799,7 +1799,7 @@
 	Year = {2008}}
 
 @Book{Gries13,
-  author    = {Gries, S T.},
+  author    = {Gries, Stefan Th.},
   title     = {Statistics for Linguistics with {R}},
   year      = {2013},
   edition   = {2 ed.},
@@ -1816,13 +1816,14 @@
 	Title = {Quantitative Corpus Linguistics with {R}: a practical introduction},
 	Year = {2009}}
 
-@book{Gries09b,
-	Author = {Gries, S. T.},
-	Owner = {Livia},
-	Publisher = {Berlin/New York: Mouton de Gruyter},
-	Timestamp = {2014.02.13},
-	Title = {Statistics for Linguistics with {R}},
-	Year = {2009}}
+@Book{Gries09b,
+  author    = {Gries, Stefan Th.},
+  title     = {Statistics for Linguistics with {R}},
+  year      = {2009},
+  publisher = {Berlin/New York: Mouton de Gruyter},
+  owner     = {Livia},
+  timestamp = {2014.02.13},
+}
 
 @unpublished{Grolla08,
 	Author = {Grolla, Elaine},
@@ -6187,7 +6188,7 @@
   author       = {Oushiro, Livia},
   title        = {Introdu\c{c}\~{a}o \`{a} Estat\'{i}stica para Linguistas, v.2.0},
   year         = {2021},
-  howpublished = {Dispon\'{i}vel em http://rpubs.com/oushiro/iel.},
+  howpublished = {Dispon\'{i}vel em http://rpubs.com/oushiro/iel.X},
   note         = {Licen\c{c}a Creative Commons 4.0 Atribui\c{c}\~{a}o -- N\~{a}o comercial.},
   month        = {dez},
   owner        = {livia},

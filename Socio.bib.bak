@@ -1816,13 +1816,14 @@
 	Title = {Quantitative Corpus Linguistics with {R}: a practical introduction},
 	Year = {2009}}
 
-@book{Gries09b,
-	Author = {Gries, S. T.},
-	Owner = {Livia},
-	Publisher = {Berlin/New York: Mouton de Gruyter},
-	Timestamp = {2014.02.13},
-	Title = {Statistics for Linguistics with {R}},
-	Year = {2009}}
+@Book{Gries09b,
+  author    = {Gries, Stefan Th.},
+  title     = {Statistics for Linguistics with {R}},
+  year      = {2009},
+  publisher = {Berlin/New York: Mouton de Gruyter},
+  owner     = {Livia},
+  timestamp = {2014.02.13},
+}
 
 @unpublished{Grolla08,
 	Author = {Grolla, Elaine},
