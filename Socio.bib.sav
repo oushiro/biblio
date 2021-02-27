@@ -6166,7 +6166,17 @@
   author    = {Crawley, Michael J.},
   title     = {The {R} Book},
   year      = {2013},
-  publisher = {W},
+  publisher = {West Sussex: Wiley},
+}
+
+@Article{Wickham14,
+  author       = {Wickham, Hadley},
+  journaltitle = {Journal of statistical software},
+  title        = {Tidy data},
+  volume       = {59},
+  year         = {2014},
+  number       = {10},
+  pages        = {1},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
