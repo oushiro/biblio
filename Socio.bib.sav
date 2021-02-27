@@ -6150,7 +6150,16 @@
   author = {Guy, Gregory and Furukawa, Alex and Hackney, Sarah and Mahboob, Rubaiyat and Mandel, Ethan and Waddy, Kylie},
   title  = {Replicating {L}abov’s study of (r) in New York City department stores},
   note   = {Ms.},
-  year   = {2},
+  year   = {2008},
+}
+
+@Article{Gigerenzer04,
+  author       = {Gigerenzer, Gerd},
+  journaltitle = {Journal of Socio-Economics},
+  title        = {Mindless statistics},
+  volume       = {33},
+  year         = {2004},
+  pages        = {5},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
