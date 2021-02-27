@@ -6182,6 +6182,25 @@
 @Book{,
 }
 
+@Misc{Oushiro21a,
+  author       = {Oushiro, Livia},
+  title        = {Introdu\c{c}\~{a}o \`{a} Estat\'{i}stica para Linguistas, v.2.0},
+  year         = {2021},
+  howpublished = {Dispon\'{i}vel em http://rpubs.com/oushiro/iel.},
+  note         = {Licen\c{c}a Creative Commons 4.0 Atribui\c{c}\~{a}o -- N\~{a}o comercial.},
+  month        = {dez},
+  owner        = {livia},
+  timestamp    = {2019.12.01},
+}
+
+@Book{Tufte01,
+  author    = {Tufte, E.R.},
+  title     = {The visual display of quantitative information},
+  year      = {2001},
+  edition   = {2 ed.},
+  publisher = {Connecticut: Graphics Press.},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
