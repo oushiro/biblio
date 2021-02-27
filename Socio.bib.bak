@@ -5817,8 +5817,8 @@
 
 @Article{Silverstein03,
   author  = {Silverstein, Michael},
-  date    = {2003},
   title   = {Indexical order and the dialectics of sociolinguistic life},
+  year    = {2003},
   number  = {23},
   pages   = {193--229},
   journal = {Language and Communication},
@@ -6094,6 +6094,45 @@
   title     = {Experimental Research Methods in Sociolinguistics},
   year      = {2018},
   publisher = {London: Bloomsbury},
+}
+
+@Book{BarMad15,
+  author    = {Barbosa, Plinio A. and Madureira, Sandra},
+  title     = {Manual de Fon\'{e}tica ac\'{u}stica experimental. Aplica\c{c}\~{o}es a dados do portugu\^{e}s},
+  year      = {2015},
+  publisher = {S\~{a}o Paulo: Cortez},
+}
+
+@Article{Labov90,
+  author       = {Labov, William},
+  journaltitle = {Language Variation and Change},
+  title        = {The intersection of sex and social class in the course of linguistic change},
+  volume       = {2},
+  year         = {1990},
+  pages        = {205--254},
+}
+
+@Book{Dalgaard08,
+  author    = {Dalgaard, Peter},
+  title     = {Introductory statistics with {R}},
+  year      = {2008},
+  publisher = {New York: Springer},
+}
+
+@Book{Gries19,
+  author     = {Gries, Stefan Th.},
+  title      = {Estat\'{i}stica com {R} para a lingu\'{i}stica},
+  year       = {2019 [2013]},
+  editor     = {Mello, Heliana R.},
+  publisher  = {Belo Horizonte: {FALE/UFMG}},
+  translator = {Mello, Heliana R. and Paix\~{a}o, Crysttian A. and Souza, Andr\'{e} and Zara, Julia},
+}
+
+@Book{Chang13,
+  author    = {Chang, Winston},
+  title     = {R Graphics Cookbook},
+  year      = {2013},
+  publisher = {Sebastopol: O'Reilley},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
