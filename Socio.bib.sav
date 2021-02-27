@@ -6159,7 +6159,14 @@
   title        = {Mindless statistics},
   volume       = {33},
   year         = {2004},
-  pages        = {5},
+  pages        = {587--606},
+}
+
+@Book{Crawley13,
+  author    = {Crawley, Michael J.},
+  title     = {The {R} Book},
+  year      = {2013},
+  publisher = {W},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
