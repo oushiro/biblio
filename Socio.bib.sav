@@ -58,15 +58,16 @@
 	Title = {Judgment data},
 	Year = {2013}}
 
-@incollection{Labov72e,
-	Author = {Labov, William},
-	Booktitle = {Padr\~{o}es sociolingu\'{i}sticos},
-	Date-Added = {2020-02-16 19:18:25 -0300},
-	Date-Modified = {2020-02-21 18:57:03 -0300},
-	Pages = {63--90},
-	Publisher = {S\~{a}o Paulo: Par\'{a}bola},
-	Title = {A estratifica{\c c}{\~a}o social do (r) nas lojas de departamentos na Cidade de {N}ova {Y}ork},
-	Year = {2008 [1972]}}
+@Incollection{Labov72,
+  author        = {Labov, William},
+  booktitle     = {Padr\~{o}es sociolingu\'{i}sticos},
+  title         = {A estratifica{\c c}{\~a}o social do (r) nas lojas de departamentos na Cidade de {N}ova {Y}ork},
+  year          = {2008},
+  pages         = {63--90},
+  publisher     = {S\~{a}o Paulo: Par\'{a}bola},
+  date-added    = {2020-02-16 19:18:25 -0300},
+  date-modified = {2020-02-21 18:57:03 -0300},
+}
 
 @incollection{Eckert13,
 	Author = {Eckert, Penelope},
@@ -6124,7 +6125,7 @@
 @Book{Gries19,
   author     = {Gries, Stefan Th.},
   title      = {Estat\'{i}stica com {R} para a lingu\'{i}stica},
-  year       = {2019 [2013]},
+  year       = {2019},
   editor     = {Mello, Heliana R.},
   publisher  = {Belo Horizonte: {FALE/UFMG}},
   translator = {Mello, Heliana R. and Paix\~{a}o, Crysttian A. and Souza, Andr\'{e} and Zara, Julia},
@@ -6211,6 +6212,17 @@
 }
 
 @Book{,
+}
+
+@Incollection{Labov72e,
+  author        = {Labov, William},
+  booktitle     = {Padr\~{o}es sociolingu\'{i}sticos},
+  title         = {A estratifica{\c c}{\~a}o social do (r) nas lojas de departamentos na Cidade de {N}ova {Y}ork},
+  year          = {2008 [1972]},
+  pages         = {63--90},
+  publisher     = {S\~{a}o Paulo: Par\'{a}bola},
+  date-added    = {2020-02-16 19:18:25 -0300},
+  date-modified = {2020-02-21 18:57:03 -0300},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
