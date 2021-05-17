@@ -58,7 +58,7 @@
 	Title = {Judgment data},
 	Year = {2013}}
 
-@Incollection{Labov72f,
+@Incollection{Labov72e,
   author        = {Labov, William},
   booktitle     = {Padr\~{o}es sociolingu\'{i}sticos},
   title         = {A estratifica{\c c}{\~a}o social do (r) nas lojas de departamentos na Cidade de {N}ova {Y}ork},
@@ -3816,12 +3816,14 @@
 	Title = {Quest\~{o}es e m\'{e}todos: vogais m\'{e}dias pret\^{o}nicas na fala de migrantes nordestinos em situa\c{c}\~{a}o de contato dialetal},
 	Year = {2019}}
 
-@misc{Oushiro18a,
-	Author = {Oushiro, Livia},
-	Howpublished = {Ms.},
-	Note = {(A ser publicado pela {EDUPCRS})},
-	Title = {M\'{u}ltiplas vari\'{a}veis na fala de nordestinos residentes em {S}\~{a}o {P}aulo},
-	Year = {no prelo}}
+@Incollection{Oushiro20a,
+  author    = {Oushiro, Livia},
+  booktitle = {Sociolingu\'{i}stica no {B}rasil: textos selecionados},
+  title     = {M\'{u}ltiplas vari\'{a}veis na fala de nordestinos residentes em {S}\~{a}o {P}aulo},
+  year      = {2020},
+  editor    = {Brescancini, Claudia Regina and Monaretto, Val\'{e}ria Neto de Oliveira},
+  publisher = {Porto Alegre: {EDUPUCRS}},
+}
 
 @Article{Oushiro20,
   author  = {Oushiro, Livia},
