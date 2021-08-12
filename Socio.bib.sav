@@ -5702,6 +5702,7 @@
   journaltitle = {Linguistics},
   title        = {Sometimes {I}'ll start a sentence in {S}panish y termino en espa\~{n}ol: toward a typology of code-switching},
   pages        = {581--618},
+  year		= {1980},
 }
 
 @Article{PIB99,
@@ -6140,7 +6141,13 @@
   publisher = {Sebastopol: O'Reilley},
 }
 
-@Book{,
+@Article{Ferguson59,
+  author       = {Ferguson, Charles Albert},
+  journaltitle = {Word},
+  title        = {Diglossia},
+  volume       = {15},
+  year         = {1959},
+  pages        = {325--340},
 }
 
 @Unpublished{Fowler,
@@ -6184,7 +6191,11 @@
   pages        = {1--23},
 }
 
-@Book{,
+@Book{Bagno17,
+  author    = {Bagno, Marcos},
+  title     = {Dicion\'{a}rio cr\'{i}tico de sociolingu\'{i}stica},
+  year      = {2017},
+  publisher = {S\~{a}o Paulo: Par\'{a}bola},
 }
 
 @Misc{Oushiro21a,
@@ -6225,6 +6236,27 @@
   publisher     = {S\~{a}o Paulo: Par\'{a}bola},
   date-added    = {2020-02-16 19:18:25 -0300},
   date-modified = {2020-02-21 18:57:03 -0300},
+}
+
+@Book{Weinreich53,
+  author    = {Weinreich, Uriel},
+  title     = {Languages in contact: findings and problems},
+  year      = {1953},
+  publisher = {New York: Mouton The Hague},
+}
+
+@Book{,
+}
+
+@Electronic{ESF20,
+  author = {Eberhard, David M. and Simons, Gary F. and Fennig, Charles D.},
+  title  = {Ethnologue. Languages of the world.},
+  url    = {http://www.ethnologue.com},
+  note   = {Dallas, Texas: {SIL International}},
+  year   = {2020},
+}
+
+@Book{,
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

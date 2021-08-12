@@ -3825,13 +3825,13 @@
   publisher = {Porto Alegre: {EDUPUCRS}},
 }
 
-@Article{Oushiro20,
+@Article{Oushiro20b,
   author  = {Oushiro, Livia},
   title   = {Contrasting Age of Arrival and Length of Residence in Dialect Contact},
-  number  = {2},
   volume  = {25},
-  journal = {University of Pennsylvania Working Papers in Linguistics},
   year    = {2020},
+  number  = {2},
+  journal = {University of Pennsylvania Working Papers in Linguistics},
 }
 
 @article{Oushiro19b,
@@ -5702,6 +5702,7 @@
   journaltitle = {Linguistics},
   title        = {Sometimes {I}'ll start a sentence in {S}panish y termino en espa\~{n}ol: toward a typology of code-switching},
   pages        = {581--618},
+  year		= {1980},
 }
 
 @Article{PIB99,
@@ -6140,7 +6141,13 @@
   publisher = {Sebastopol: O'Reilley},
 }
 
-@Book{,
+@Article{Ferguson59,
+  author       = {Ferguson, Charles Albert},
+  journaltitle = {Word},
+  title        = {Diglossia},
+  volume       = {15},
+  year         = {1959},
+  pages        = {325--340},
 }
 
 @Unpublished{Fowler,
@@ -6225,6 +6232,24 @@
   publisher     = {S\~{a}o Paulo: Par\'{a}bola},
   date-added    = {2020-02-16 19:18:25 -0300},
   date-modified = {2020-02-21 18:57:03 -0300},
+}
+
+@Book{Weinreich53,
+  author    = {Weinreich, Uriel},
+  title     = {Languages in contact: findings and problems},
+  year      = {1953},
+  publisher = {New York: Mouton The Hague},
+}
+
+@Book{,
+}
+
+@Electronic{ESF20,
+  author = {Eberhard, David M. and Simons, Gary F. and Fennig, Charles D.},
+  title  = {Ethnologue. Languages of the world.},
+  url    = {http://www.ethnologue.com},
+  note   = {Dallas, Texas: {SIL International}},
+  year   = {2020},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
