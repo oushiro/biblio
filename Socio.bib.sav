@@ -6279,6 +6279,16 @@
   url      = {http://gregoryrguy.com/home/colloquia},
 }
 
+@Article{Schilling04,
+  author       = {Schilling-Estes, Natalie},
+  journaltitle = {Journal of Sociolinguistics},
+  title        = {Constructing ethnicity in interaction},
+  volume       = {8},
+  year         = {2004},
+  number       = {2},
+  pages        = {163--195},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
