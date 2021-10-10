@@ -6191,7 +6191,11 @@
   pages        = {1--23},
 }
 
-@Book{,
+@Book{Bagno17,
+  author    = {Bagno, Marcos},
+  title     = {Dicion\'{a}rio cr\'{i}tico de sociolingu\'{i}stica},
+  year      = {2017},
+  publisher = {S\~{a}o Paulo: Par\'{a}bola},
 }
 
 @Misc{Oushiro21a,
@@ -6250,6 +6254,20 @@
   url    = {http://www.ethnologue.com},
   note   = {Dallas, Texas: {SIL International}},
   year   = {2020},
+}
+
+@Book{,
+}
+
+@InProceedings{Eckert04,
+  author    = {Eckert, Penelope},
+  booktitle = {Proceedings of the 11th Annual Symposium about Language and Society},
+  title     = {The meaning of style},
+  year      = {2004},
+  editor    = {Chiang, W. F. and Chun, E. and Mahalingappa, L. and Mehus, S.},
+  pages     = {41--53},
+  publisher = {Austin, Texas Linguistic Forum 47},
+  url       = {https://web.stanford.edu/~eckert/PDF/salsa2003.pdf},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
