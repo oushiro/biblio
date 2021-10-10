@@ -6270,6 +6270,15 @@
   url       = {https://web.stanford.edu/~eckert/PDF/salsa2003.pdf},
 }
 
+@Misc{Guy16,
+  author   = {Guy, Gregory R.},
+  title    = {Iconicity and nonlocality as ethnolectal social markers},
+  year     = {2016},
+  location = {Meertens Instituut, Amsterdam, Netherlands},
+  note     = {Paper presented at the International workshop on new developments in the study of migration and ethnolectal variation},
+  url      = {http://gregoryrguy.com/home/colloquia},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
