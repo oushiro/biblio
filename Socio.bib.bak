@@ -6310,6 +6310,13 @@
   howpublished = {Scientific inititation research report.},
 }
 
+@Misc{OusGue19,
+  author       = {Oushiro, Livia and Guedes, Shirley},
+  title        = {Usage rates and variable rules: what changes in migrants' speech},
+  year         = {2019},
+  howpublished = {Paper presented at NWAV48, Eugene-OR},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
