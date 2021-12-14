@@ -6462,12 +6462,19 @@
 
 @Article{BarAlb04,
   author       = {Barbosa, Plinio and Albano, Eleonora C.},
-  date         = {2004},
   journaltitle = {Journal of the International Phonetic Association},
   title        = {Brazilian {P}ortuguese},
   volume       = {34},
+  year         = {200},
   number       = {2},
   pages        = {227--232},
+}
+
+@Book{Mattoso70,
+  author    = {Mattoso Camara Jr, Joaquim},
+  title     = {Estrutura da l\'{i}ngua portuguesa},
+  year      = {2006 [1970]},
+  publisher = {Petr\'{o}polis: Editora Vozes},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

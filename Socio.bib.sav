@@ -3791,11 +3791,12 @@
 	Title = {Concord\^{a}ncia nominal/verbal do analfabeto na micro-regi\~{a}o de {B}ragantina},
 	Year = {1980}}
 
-@book{Noll08,
-	Author = {Noll, Volker},
-	Publisher = {S\~{a}o Paulo: Globo},
-	Title = {O portugu\^{e}s brasileiro: forma\c{c}\~{a}o e contrastes},
-	Year = {2008}}
+@Book{Noll08,
+  author    = {Noll, Volker},
+  title     = {O portugu\^{e}s brasileiro: forma\c{c}\~{a}o e contrastes},
+  year      = {2008 [1999]},
+  publisher = {S\~{a}o Paulo: Globo},
+}
 
 @book{Nycz11,
 	Author = {Nycz, Jennifer R.},
@@ -6465,9 +6466,16 @@
   journaltitle = {Journal of the International Phonetic Association},
   title        = {Brazilian {P}ortuguese},
   volume       = {34},
-  year         = {2004},
+  year         = {200},
   number       = {2},
   pages        = {227--232},
+}
+
+@Book{Mattoso70,
+  author    = {Mattoso Camara Jr, Joaquim},
+  title     = {Estrutura da l\'{i}ngua portuguesa},
+  year      = {2006 [1970]},
+  publisher = {Petr\'{o}polis: Editora Vozes},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
