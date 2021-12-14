@@ -6460,16 +6460,6 @@
   journal = {Estudos Lingu\'{i}sticos e Liter\'{a}rios},
 }
 
-@Article{BarAlb04,
-  author       = {Barbosa, Plinio and Albano, Eleonora C.},
-  date         = {2004},
-  journaltitle = {Journal of the International Phonetic Association},
-  title        = {Brazilian {P}ortuguese},
-  volume       = {34},
-  number       = {2},
-  pages        = {227--232},
-}
-
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
