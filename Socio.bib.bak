@@ -1,10 +1,13 @@
 % Encoding: UTF-8
 
 @Manual{R-aod,
-	title = {aod: Analysis of Overdispersed Data},
-	author = {Matthieu Lesnoff and Renaud Lancelot},
-	year = {2019},   note = {R package version 1.3.1},
-	url = {https://cran.r-project.org/package=aod},}
+  author = {Matthieu Lesnoff and Renaud Lancelot},
+  title  = {aod: Analysis of Overdispersed Data},
+  note   = {R package version 1.3.1},
+  url    = {https://cran.r-project.org/package=aod},
+  file   = {:R-aod - Aod_ Analysis of Overdispersed Data.bib:bib},
+  year   = {2019},
+}
 
 @Manual{R-gvlma,
 	title = {gvlma: Global Validation of Linear Models Assumptions},
@@ -6452,6 +6455,8 @@
   title   = {Conceitos de identidade e m\'{e}todos para seu estudo na sociolingu\'{i}stica},
   volume  = {63},
   year    = {2019},
+  number  = {esp.},
+  pages   = {304--325},
   journal = {Estudos Lingu\'{i}sticos e Liter\'{a}rios},
 }
 

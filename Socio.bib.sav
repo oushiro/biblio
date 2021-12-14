@@ -1,10 +1,13 @@
 % Encoding: UTF-8
 
 @Manual{R-aod,
-	title = {aod: Analysis of Overdispersed Data},
-	author = {Matthieu Lesnoff and Renaud Lancelot},
-	year = {2019},   note = {R package version 1.3.1},
-	url = {https://cran.r-project.org/package=aod},}
+  author = {Matthieu Lesnoff and Renaud Lancelot},
+  title  = {aod: Analysis of Overdispersed Data},
+  note   = {R package version 1.3.1},
+  url    = {https://cran.r-project.org/package=aod},
+  file   = {:R-aod - Aod_ Analysis of Overdispersed Data.bib:bib},
+  year   = {2019},
+}
 
 @Manual{R-gvlma,
 	title = {gvlma: Global Validation of Linear Models Assumptions},
@@ -6455,6 +6458,16 @@
   number  = {esp.},
   pages   = {304--325},
   journal = {Estudos Lingu\'{i}sticos e Liter\'{a}rios},
+}
+
+@Article{BarAlb04,
+  author       = {Barbosa, Plinio and Albano, Eleonora C.},
+  date         = {2004},
+  journaltitle = {Journal of the International Phonetic Association},
+  title        = {Brazilian {P}ortuguese},
+  volume       = {34},
+  number       = {2},
+  pages        = {227--232},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
