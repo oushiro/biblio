@@ -6546,6 +6546,16 @@
   timestamp    = {2014.02.11},
 }
 
+@Article{GGKK21Pokemon,
+  author       = {Godoy, Mahayana and Andr\'{e} Lucas Gomes and Kumagai, Gakuji and Kawahara, Shigeto},
+  journaltitle = {Journal of Portuguese Linguistics},
+  title        = {Sound symbolism in Brazilian Portuguese Pok\'{e}mon names: Evidence for cross-linguistic similarities and differences},
+  volume       = {20},
+  year         = {2021},
+  doi          = {https://doi.org/10.5334/jpl.257},
+  number       = {1},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
