@@ -6641,13 +6641,14 @@
 }
 
 @Article{Santana21,
-  author  = {Santana, Amanda de Lima},
-  title   = {A pronúncia variável de /t, d/ diante de [i] na fala de migrantes sergipanos em {S}ão {P}aulo},
-  volume  = {50},
-  year    = {2021},
-  number  = {3},
-  pages   = {1283--1304},
-  journal = {Estudos Linguísticos},
+  author       = {Santana, Amanda de Lima},
+  journaltitle = {Estudos Linguísticos},
+  title        = {A pronúncia variável de /t, d/ diante de [i] na fala de migrantes sergipanos em {S}ão {P}aulo},
+  volume       = {50},
+  year         = {2021},
+  number       = {3},
+  pages        = {1283--1304},
+  journal      = {Estudos Linguísticos},
 }
 
 @Article{SanMen19,
