@@ -6642,7 +6642,7 @@
 
 @Article{Santana21,
   author  = {Santana, Amanda de Lima},
-  title   = {A pronúncia variável de /t, d/ diante de [i] na fala de migrantes sergipanos em São Paulo},
+  title   = {A pronúncia variável de /t, d/ diante de [i] na fala de migrantes sergipanos em {S}ão {P}aulo},
   volume  = {50},
   year    = {2021},
   number  = {3},
@@ -6653,7 +6653,7 @@
 @Article{SanMen19,
   author       = {Santana, Amanda de Lima, and Ronald Beline Mendes},
   journaltitle = {Linguí{S}tica},
-  title        = {Sergipanos em São Paulo: redes sociais, contato dialetal e pronúncia variável de vogais médias pretônicas},
+  title        = {Sergipanos em {S}ão {P}aulo: redes sociais, contato dialetal e pronúncia variável de vogais médias pretônicas},
   volume       = {15},
   year         = {2019},
   number       = {2},
@@ -6668,13 +6668,13 @@
 }
 
 @Article{SilGom20,
-  author       = {Silva, Mikaylson Rocha da, and Almir Anacleto de Araújo Gomes},
-  journaltitle = {Cuadernos de la ALFAL},
-  title        = {O papel das atitudes linguísticas nos estudos variacionistas e de contato dialetal no {PB}},
-  volume       = {12},
-  year         = {2020},
-  number       = {1},
-  pages        = {53--70},
+  author  = {Silva, Mikaylson Rocha da, and Almir Anacleto de Araújo Gomes},
+  title   = {O papel das atitudes linguísticas nos estudos variacionistas e de contato dialetal no {PB}},
+  volume  = {12},
+  year    = {2020},
+  number  = {1},
+  pages   = {53--70},
+  journal = {Cuadernos de la ALFAL},
 }
 
 @Article{SilLuc15,
