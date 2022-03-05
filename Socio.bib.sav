@@ -6695,6 +6695,13 @@
   year      = {2022},
 }
 
+@Book{Siqueira20,
+  author    = {José Manoel Siqueira da Silva},
+  title     = {Variação no preenchimento da posição determinante antes de possessivos pré-nominais: padrões dialetais e contato},
+  year      = {2020},
+  publisher = {Master's thesis. São Cristóvão: UFS},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
