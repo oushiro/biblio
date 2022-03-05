@@ -6687,6 +6687,13 @@
   pages        = {431--468},
 }
 
+@InProceedings{Silveira22CongressoProsodia,
+  author    = {Silveira, Gustavo de Campos Pinheiro},
+  booktitle = {Anais do II Congresso Brasileiro de Prosódia},
+  title     = {Fundamental frequency change rate and dialect contact},
+  year      = {2022},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
