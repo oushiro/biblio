@@ -6641,13 +6641,13 @@
 }
 
 @Article{Santana21,
-  author       = {Santana, Amanda de Lima},
-  journaltitle = {Estudos Linguísticos},
-  title        = {A pronúncia variável de /t, d/ diante de [i] na fala de migrantes sergipanos em São Paulo},
-  volume       = {50},
-  year         = {2021},
-  number       = {3},
-  pages        = {1283--1304},
+  author  = {Santana, Amanda de Lima},
+  title   = {A pronúncia variável de /t, d/ diante de [i] na fala de migrantes sergipanos em São Paulo},
+  volume  = {50},
+  year    = {2021},
+  number  = {3},
+  pages   = {1283--1304},
+  journal = {Estudos Linguísticos},
 }
 
 @Article{SanMen19,
@@ -6685,6 +6685,13 @@
   year         = {2015},
   number       = {1},
   pages        = {431--468},
+}
+
+@InProceedings{Silveira22CongressoProsodia,
+  author    = {Silveira, Gustavo de Campos Pinheiro},
+  booktitle = {Anais do II Congresso Brasileiro de Prosódia},
+  title     = {Fundamental frequency change rate and dialect contact},
+  year      = {2022},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

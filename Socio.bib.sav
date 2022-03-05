@@ -6641,13 +6641,13 @@
 }
 
 @Article{Santana21,
-  author       = {Santana, Amanda de Lima},
-  journaltitle = {Estudos Linguísticos},
-  title        = {A pronúncia variável de /t, d/ diante de [i] na fala de migrantes sergipanos em São Paulo},
-  volume       = {50},
-  year         = {2021},
-  number       = {3},
-  pages        = {1283--1304},
+  author  = {Santana, Amanda de Lima},
+  title   = {A pronúncia variável de /t, d/ diante de [i] na fala de migrantes sergipanos em São Paulo},
+  volume  = {50},
+  year    = {2021},
+  number  = {3},
+  pages   = {1283--1304},
+  journal = {Estudos Linguísticos},
 }
 
 @Article{SanMen19,
@@ -6668,13 +6668,13 @@
 }
 
 @Article{SilGom20,
-  author       = {Silva, Mikaylson Rocha da, and Almir Anacleto de Araújo Gomes},
-  journaltitle = {Cuadernos de la ALFAL},
-  title        = {O papel das atitudes linguísticas nos estudos variacionistas e de contato dialetal no {PB}},
-  volume       = {12},
-  year         = {2020},
-  number       = {1},
-  pages        = {53--70},
+  author  = {Silva, Mikaylson Rocha da, and Almir Anacleto de Araújo Gomes},
+  title   = {O papel das atitudes linguísticas nos estudos variacionistas e de contato dialetal no {PB}},
+  volume  = {12},
+  year    = {2020},
+  number  = {1},
+  pages   = {53--70},
+  journal = {Cuadernos de la ALFAL},
 }
 
 @Article{SilLuc15,
