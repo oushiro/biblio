@@ -6572,6 +6572,15 @@
   journaltitle = {Anais do {XXXV} {E}ncontro {N}aciona da {ANPOLL}},
 }
 
+@InCollection{Adant89,
+  author    = {Adant, Josepha},
+  booktitle = {Fotografias sociolinguísticas},
+  title     = {Difusão dialetal: o caso dos alagoanos em Brasília},
+  year      = {1989},
+  pages     = {181--197},
+  publisher = {Campinas: Editora da Unicamp},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
