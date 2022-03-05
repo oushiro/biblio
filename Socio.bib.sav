@@ -3961,7 +3961,7 @@
   timestamp = {2019.11.30},
 }
 
-@Incollection{Oushiro20a,
+@InCollection{Oushiro20aMultiplas,
   author    = {Oushiro, Livia},
   booktitle = {Sociolingu\'{i}stica no {B}rasil: textos selecionados},
   title     = {M\'{u}ltiplas vari\'{a}veis na fala de nordestinos residentes em {S}\~{a}o {P}aulo},
@@ -3970,7 +3970,7 @@
   publisher = {Porto Alegre: {EDUPUCRS}},
 }
 
-@Article{Oushiro20b,
+@Article{Oushiro20bContrasting,
   author  = {Oushiro, Livia},
   title   = {Contrasting Age of Arrival and Length of Residence in Dialect Contact},
   volume  = {25},
