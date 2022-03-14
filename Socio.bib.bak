@@ -6703,12 +6703,23 @@
 }
 
 @Article{SAO09,
-  author = {Silva, Carolina Rodrigues da and Andrade, Daniela Negraes P. and Ostermann, Ana Cristina},
-  title  = {Análise da conversa: uma breve introdução},
-  volume = {7},
-  year   = {2009},
-  number = {13},
-  pages  = {1--21},
+  author  = {Silva, Carolina Rodrigues da and Andrade, Daniela Negraes P. and Ostermann, Ana Cristina},
+  title   = {Análise da conversa: uma breve introdução},
+  volume  = {7},
+  year    = {2009},
+  number  = {13},
+  pages   = {1--21},
+  journal = {ReVEL},
+}
+
+@Article{GarSte15,
+  author  = {Garcez, Pedro de Moraes and Stein, Fabíola},
+  title   = {Organização da fala-em-interação: o dispositivo para ogerenciamento de fala sobreposta na conversa cotidiana emdados de português brasileiro},
+  volume  = {23},
+  year    = {2015},
+  number  = {1},
+  pages   = {159--194},
+  journal = {Revista de Estudos da Linguagem},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

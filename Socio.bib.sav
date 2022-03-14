@@ -6712,6 +6712,16 @@
   journal = {ReVEL},
 }
 
+@Article{GarSte15,
+  author  = {Garcez, Pedro de Moraes and Stein, Fabíola},
+  title   = {Organização da fala-em-interação: o dispositivo para ogerenciamento de fala sobreposta na conversa cotidiana emdados de português brasileiro},
+  volume  = {23},
+  year    = {2015},
+  number  = {1},
+  pages   = {159--194},
+  journal = {Revista de Estudos da Linguagem},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
