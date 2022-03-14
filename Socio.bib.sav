@@ -6702,6 +6702,16 @@
   publisher = {Master's thesis. São Cristóvão: UFS},
 }
 
+@Article{SAO09,
+  author  = {Silva, Carolina Rodrigues da and Andrade, Daniela Negraes P. and Ostermann, Ana Cristina},
+  title   = {Análise da conversa: uma breve introdução},
+  volume  = {7},
+  year    = {2009},
+  number  = {13},
+  pages   = {1--21},
+  journal = {ReVEL},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
