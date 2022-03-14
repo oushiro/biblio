@@ -6830,10 +6830,11 @@
   publisher = {Malden, MA: Wiley-Blackwell},
 }
 
-@InCollection{,
+@InCollection{KerTru05,
   author    = {Kerswill, Paul and Trudgill, Peter},
   booktitle = {Dialect change: convergence and divergence in European languages.},
   title     = {The birth of new dialects},
+  year      = {2005},
   editor    = {Auer, P. and Hinskens, F. and Kerswill, P.},
   pages     = {196--220},
   publisher = {Cambridge: Cambridge University Press},
