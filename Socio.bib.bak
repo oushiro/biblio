@@ -6830,7 +6830,7 @@
   publisher = {Malden, MA: Wiley-Blackwell},
 }
 
-@InCollection{,
+@InCollection{KerTru05,
   author    = {Kerswill, Paul and Trudgill, Peter},
   booktitle = {Dialect change: convergence and divergence in European languages.},
   title     = {The birth of new dialects},
@@ -6924,6 +6924,13 @@
   year      = {2010},
   pages     = {170--187},
   publisher = {Malden, MA: Wiley-Blackwell},
+}
+
+@Misc{Oushirond,
+  author = {Oushiro, Livia},
+  title  = {Dialect contact in lusophone communities},
+  year   = {under review},
+  note   = {Ms.},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
