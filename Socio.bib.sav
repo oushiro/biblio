@@ -1149,18 +1149,19 @@
 	Title = {Sociolingu\'{i}stica: uma introdu\c{c}\~{a}o cr\'{i}tica},
 	Year = {2002}}
 
-@article{Camacho10,
-	Author = {Camacho, Roberto Gomes},
-	Journal = {D.E.L.T.A.},
-	Number = {1},
-	Owner = {Livia},
-	Pages = {141--162},
-	Timestamp = {2014.09.18},
-	Title = {Uma Reflex\~{a}o cr\'{i}tica sobre a teoria Sociolingu\'{i}stica},
-	Url = {http://www.scielo.br/pdf/delta/v26n1/06.pdf},
-	Volume = {26},
-	Year = {2010},
-	Bdsk-Url-1 = {http://www.scielo.br/pdf/delta/v26n1/06.pdf}}
+@Article{Camacho10,
+  author     = {Camacho, Roberto Gomes},
+  title      = {Uma reflex\~{a}o cr\'{i}tica sobre a teoria Sociolingu\'{i}stica},
+  volume     = {26},
+  year       = {2010},
+  number     = {1},
+  pages      = {141--162},
+  url        = {http://www.scielo.br/pdf/delta/v26n1/06.pdf},
+  bdsk-url-1 = {http://www.scielo.br/pdf/delta/v26n1/06.pdf},
+  journal    = {D.E.L.T.A.},
+  owner      = {Livia},
+  timestamp  = {2014.09.18},
+}
 
 @article{Cameron93,
 	Author = {Cameron, Richard},
@@ -6932,6 +6933,91 @@
   title  = {Dialect contact in lusophone communities},
   year   = {under review},
   note   = {Ms.},
+}
+
+@Book{Silveira22mestrado,
+  author    = {Silveira, Gustavo de Campos Pinheiro da},
+  title     = {The prosody of speech in a dialect contact situation: a sociophonetic study of the speech of {A}lagoan migrants in {S}\~{a}o {P}aulo},
+  year      = {2022},
+  note      = {158ff},
+  publisher = {Campinas: {IEL/UNICAMP}},
+}
+
+@Misc{Ferraz22,
+  author       = {Ferraz, Leonardo},
+  title        = {A acomoda\c{c}\~{a}o dialetal na fala de migrantes baianos em {P}almares {P}aulista},
+  year         = {2022},
+  howpublished = {Ms. Projeto de Mestrado. IEL/UNICAMP},
+}
+
+@Article{GorMar21,
+  author       = {G\"{o}rski, Edair Maria and Martins, Marco Antonio Rocha},
+  journaltitle = {Revista da Anpoll},
+  title        = {Quest\~{o}es te\'{o}rico-metodol\'{o}gicas da {S}ociolingu\'{i}stica em interface com o {G}erativismo e o {F}uncionalismo lingu\'{i}sticos e o ensino da {L}\'{i}ngua {P}ortuguesa},
+  volume       = {52},
+  year         = {2021},
+  number       = {esp.},
+  pages        = {173--197},
+}
+
+@Article{BorMul87,
+  author       = {Borges Neto, Jos\'{e} and M\"{u}ller, Ana L\'{u}cia de Paula},
+  journaltitle = {{DELTA}},
+  title        = {Ling\"{u}istas ou camale\~{o}es? Uma resposta a {T}arallo},
+  volume       = {3},
+  year         = {1987},
+  number       = {1},
+  pages        = {85--95},
+}
+
+@InCollection{CasNas08,
+  author       = {Casseb-Galv\~{a}o, Vania Cristina and Nascimento, Andr\'{e} Marques do},
+  booktitle    = {M\'{u}ltiplas perspectivas em {L}ingu\'{i}stica},
+  title        = {Socioling\"{u}\'{i}stica variacionista e funcionalismo: conflu\^{e}ncias epistemol\'{o}gicas},
+  year         = {2008},
+  editor       = {Magalh\~{a}es, Jose Sueli and Travaglia, L. C.},
+  publisher    = {Uberl\^{a}ndia: Edufu},
+  journaltitle = {Sociolingüística variacionista e funcionalismo: confluências epistemológicas},
+}
+
+@Article{Duarte19,
+  author       = {Duarte, Maria Eug\^{e}nia Lammoglia},
+  journaltitle = {Guavira Letras},
+  title        = {A Sociolingu\'{i}stica ``param\'{e}trica': desfazendo alguns equ\'{i}vocos},
+  volume       = {15},
+  year         = {2019},
+  number       = {31},
+  pages        = {124--140},
+}
+
+@Article{GorTav13,
+  author       = {G\"{o}rski, Edair Maria and Tavares, Maria Alice},
+  journaltitle = {Revista do {GELNE}},
+  title        = {Reflex\~{o}es te\'{o}rico-metodol\'{o}gicas a respeito de uma interface sociofuncionalista},
+  volume       = {15},
+  year         = {2013},
+  number       = {esp.},
+  pages        = {79--101},
+}
+
+@Article{GorVal21,
+  author       = {G\"{o}rski, Edair Maria and Valle, Carla Regina Marins},
+  journaltitle = {Estudos da L\'{i}ngua(gem)},
+  title        = {A din\^{a}mica do significado social na gramaticaliza\c{c}\~{a}o: desafios para uma abordagem sociofuncionalista},
+  volume       = {19},
+  year         = {2021},
+  note         = {Vit\'{o}ria da Conquista},
+  number       = {4},
+  pages        = {183--207},
+}
+
+@InCollection{TavGor15,
+  author    = {Tavares, Maria Alice and G\"{o}rski, Edair Maria},
+  booktitle = {Mapeamento sociolingu\'{i}stico do portugu\^{e}s brasileiro},
+  title     = {Varia\c{c}\~{a}o e sociofuncionalismo},
+  year      = {2015},
+  editor    = {Martins, Marco Antonio and Abra\c{c}ado, Jussara},
+  pages     = {249--270},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
