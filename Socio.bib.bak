@@ -7077,23 +7077,24 @@
 }
 
 @InBook{LimaJrms,
-  author    = {Lima Jr., Ronaldo},
-  booktitle = {Introdu\c{c}\~{a}o \`{a} Estat\'{i}stica para Linguistas},
-  date      = {ms},
-  title     = {Posf\'{a}cio},
-  publisher = {Editora da {ABRALIN}},
-  year      = {ms},
+  author     = {Lima Jr., Ronaldo},
+  booktitle  = {Introdu\c{c}\~{a}o \`{a} Estat\'{i}stica para Linguistas},
+  date       = {ms},
+  title      = {Posf\'{a}cio},
+  bookauthor = {Oushiro Livia},
+  publisher  = {Editora da {ABRALIN}},
+  year       = {ms},
 }
 
 @Article{Eckert22,
-  author       = {Eckert, Penelope},
-  journaltitle = {Organon},
-  title        = {As tr\^{e}s ondas do estudo da varia\c{c}\~{a}o: a emerg\^{e}ncia do significado no estudo da varia\c{c}\~{a}o lingu\'{i}stica},
-  volume       = {37},
-  year         = {2022 [2012]},
-  note         = {Tradu\c{c}\~{a}o de Samuel Gomes de Oliveira, Livia Majolo Rockenbach e Athany Gutierres},
-  number       = {73},
-  pages        = {268--291},
+  author  = {Eckert, Penelope},
+  title   = {As tr\^{e}s ondas do estudo da varia\c{c}\~{a}o: a emerg\^{e}ncia do significado no estudo da varia\c{c}\~{a}o lingu\'{i}stica},
+  volume  = {37},
+  year    = {2022 [2012]},
+  note    = {Tradu\c{c}\~{a}o de Samuel Gomes de Oliveira, Livia Majolo Rockenbach e Athany Gutierres},
+  number  = {73},
+  pages   = {268--291},
+  journal = {Organon},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
