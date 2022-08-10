@@ -7037,10 +7037,10 @@
   publisher = {S\~{a}o Paulo: Par\'{a}bola},
 }
 
-@Collection{BarOth22,
-  editor    = {Barbosa Filho, F\'{a}bio Ramos and Othero, Gabriel de \'{A}vila},
+@Book{BarOth22,
   title     = {Linguagem ``neutra'': l\'{i}ngua e g\^{e}nero em debate},
   year      = {2022},
+  editor    = {Barbosa Filho, F\'{a}bio Ramos and Othero, Gabriel de \'{A}vila},
   publisher = {S\~{a}o Paulo: Par\'{a}bola},
 }
 
