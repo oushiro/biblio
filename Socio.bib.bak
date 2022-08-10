@@ -7057,9 +7057,15 @@
   author    = {Oushiro, Livia},
   booktitle = {The Oxford Handbook of the Portuguese Language},
   title     = {Dialect contact in lusophone communities},
-  year      = {no prelo},
+  year      = {ms},
   editor    = {Carvalho, Ana Maria and Oushiro, Livia},
   publisher = {Oxford: Oxford University Press},
+}
+
+@Book{Baldez22,
+  author = {Baldez, Diovana da Silveira},
+  title  = {O uso da marca\c{c}\~{a} de g\^{e}nero neutro no {T}witter por uma perspectiva sociolingu\'{i}stica},
+  year   = {2022},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

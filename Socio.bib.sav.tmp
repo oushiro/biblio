@@ -6746,7 +6746,7 @@
   author    = {Barbosa, A. O.},
   title     = {Brasilienses e a ideia de não sotaque no processo de formação de identidade linguística},
   year      = {2002},
-  publisher = {Disserta c~ao de Mestrado. Campinas: IEL/UNICAMP},
+  publisher = {Disserta\c{c}\~{a}o de Mestrado. Campinas: IEL/UNICAMP},
 }
 
 @Book{Ricardo11,
@@ -7058,4 +7058,4 @@
   booktitle = {The Oxford Handbook of the Portuguese Language},
   title     = {Dialect contact in lusophone communities},
   year      = {ms},
-  editor    = {Carvalho, Ana Maria
+  editor    = {Carvalho, Ana M
