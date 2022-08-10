@@ -6811,4 +6811,251 @@
   author    = {Kerswill, Paul},
   title     = {Dialects converging. Rural speech in urban Norway},
   year      = {1994},
-  publisher = {Ox
+  publisher = {Oxford: Oxford University Press.},
+}
+
+@InCollection{Kerswill06,
+  author    = {Kerswill, Paul},
+  booktitle = {Sociolinguistics/Soziolinguistik. An international handbook of the science of language and society},
+  title     = {Migration and language},
+  volumes   = {3},
+  year      = {2006},
+  edition   = {2},
+  editor    = {Mattheier, K. and Ammon, U. and Trudgill, P.},
+}
+
+@InCollection{Kerswill13,
+  author    = {Kerswill, Paul},
+  booktitle = {The Handbook of Language Variation and Change},
+  title     = {Koineization},
+  year      = {2013},
+  editor    = {Chambers, J. K. and Schilling, N.},
+  pages     = {519--536},
+  publisher = {Malden, MA: Wiley-Blackwell},
+}
+
+@InCollection{KerTru05,
+  author    = {Kerswill, Paul and Trudgill, Peter},
+  booktitle = {Dialect change: convergence and divergence in European languages.},
+  title     = {The birth of new dialects},
+  year      = {2005},
+  editor    = {Auer, P. and Hinskens, F. and Kerswill, P.},
+  pages     = {196--220},
+  publisher = {Cambridge: Cambridge University Press},
+}
+
+@Article{Milroy02,
+  author  = {Milroy, Leslie},
+  title   = {Introduction: Mobility, contact and language change -- working withcontemporary speech communities},
+  volume  = {6},
+  number  = {1},
+  pages   = {3--15},
+  journal = {Journal of Sociolinguistics},
+}
+
+@Article{Nycz13,
+  author = {Nycz, Jennifer},
+  title  = {New contrast acquisition: methodological issues and theoretical implications},
+  volume = {17},
+  year   = {2013},
+  number = {2},
+  pages  = {325--357},
+}
+
+@Article{PZD12,
+  author = {Poplack, S. and Zentz, L. and Dion, N.},
+  title  = {Phrase-final prepositions in Quebec French: An empirical study of contact, code-switching and resistance to convergence},
+  volume = {15},
+  year   = {2012},
+  number = {2},
+  pages  = {203--225},
+}
+
+@Article{Ravindranath15,
+  author  = {Ravindranath, M.},
+  title   = {Sociolinguistic variation and language contact},
+  volume  = {9},
+  year    = {2015},
+  number  = {6},
+  pages   = {243--255},
+  journal = {Language and Linguistics Compass},
+}
+
+@InCollection{Sankoff13,
+  author    = {Sankoff, Gillian},
+  booktitle = {The Handbook of Language Variation and Change},
+  title     = {Linguistic outcomes of bilingualism},
+  year      = {2013},
+  edition   = {2},
+  editor    = {Chambers, J. K. and Schilling, N.},
+  pages     = {501--518},
+  publisher = {Malden, MA: Wiley-Blackwell},
+}
+
+@Article{TagMol07,
+  author  = {Tagliamonte, S. and Molfenter, S.},
+  title   = {How'd you get that accent? Acquiring a second dialect of the same language},
+  volume  = {36},
+  year    = {2007},
+  pages   = {649--675},
+  journal = {Language in Society},
+}
+
+@Book{Thomason01,
+  author    = {Thomason, Sarah G.},
+  title     = {Language Contact},
+  year      = {2001},
+  publisher = {Edinburgh: Edinburgh University Press},
+}
+
+@Book{ThoKau88,
+  author    = {Thomason, Sarah G. and Kaufman, T.},
+  title     = {Language contact, creolization, and genetic linguistics},
+  year      = {1988},
+  publisher = {Los Angeles/Berkeley: University of California Press},
+}
+
+@Book{Trudgill04,
+  author    = {Trudgill, Peter},
+  title     = {New dialect formation: the inevitability of colonial Englishes},
+  year      = {2004},
+  publisher = {Edinburgh: Edinburgh University Press},
+}
+
+@InCollection{Winford10,
+  author    = {Winford, D.},
+  booktitle = {The Handbook of Language Contact},
+  title     = {Contact and borrowing},
+  year      = {2010},
+  pages     = {170--187},
+  publisher = {Malden, MA: Wiley-Blackwell},
+}
+
+@Misc{Oushirond,
+  author = {Oushiro, Livia},
+  title  = {Dialect contact in lusophone communities},
+  year   = {under review},
+  note   = {Ms.},
+}
+
+@Book{Silveira22mestrado,
+  author    = {Silveira, Gustavo de Campos Pinheiro da},
+  title     = {The prosody of speech in a dialect contact situation: a sociophonetic study of the speech of {A}lagoan migrants in {S}\~{a}o {P}aulo},
+  year      = {2022},
+  note      = {158ff},
+  publisher = {Master's Dissertation. Campinas: {IEL/UNICAMP}},
+}
+
+@Misc{Ferraz22,
+  author       = {Ferraz, Leonardo},
+  title        = {A acomoda\c{c}\~{a}o dialetal na fala de migrantes baianos em {P}almares {P}aulista},
+  year         = {2022},
+  howpublished = {Ms. Projeto de Mestrado. IEL/UNICAMP},
+}
+
+@Article{GorMar21,
+  author       = {G\"{o}rski, Edair Maria and Martins, Marco Antonio Rocha},
+  journaltitle = {Revista da Anpoll},
+  title        = {Quest\~{o}es te\'{o}rico-metodol\'{o}gicas da {S}ociolingu\'{i}stica em interface com o {G}erativismo e o {F}uncionalismo lingu\'{i}sticos e o ensino da {L}\'{i}ngua {P}ortuguesa},
+  volume       = {52},
+  year         = {2021},
+  number       = {esp.},
+  pages        = {173--197},
+}
+
+@Article{BorMul87,
+  author       = {Borges Neto, Jos\'{e} and M\"{u}ller, Ana L\'{u}cia de Paula},
+  journaltitle = {{DELTA}},
+  title        = {Ling\"{u}istas ou camale\~{o}es? Uma resposta a {T}arallo},
+  volume       = {3},
+  year         = {1987},
+  number       = {1},
+  pages        = {85--95},
+}
+
+@InCollection{CasNas08,
+  author       = {Casseb-Galv\~{a}o, Vania Cristina and Nascimento, Andr\'{e} Marques do},
+  booktitle    = {M\'{u}ltiplas perspectivas em {L}ingu\'{i}stica},
+  title        = {Socioling\"{u}\'{i}stica variacionista e funcionalismo: conflu\^{e}ncias epistemol\'{o}gicas},
+  year         = {2008},
+  editor       = {Magalh\~{a}es, Jose Sueli and Travaglia, L. C.},
+  publisher    = {Uberl\^{a}ndia: Edufu},
+  journaltitle = {Sociolingüística variacionista e funcionalismo: confluências epistemológicas},
+}
+
+@Article{Duarte19,
+  author       = {Duarte, Maria Eug\^{e}nia Lammoglia},
+  journaltitle = {Guavira Letras},
+  title        = {A Sociolingu\'{i}stica ``param\'{e}trica': desfazendo alguns equ\'{i}vocos},
+  volume       = {15},
+  year         = {2019},
+  number       = {31},
+  pages        = {124--140},
+}
+
+@Article{GorTav13,
+  author       = {G\"{o}rski, Edair Maria and Tavares, Maria Alice},
+  journaltitle = {Revista do {GELNE}},
+  title        = {Reflex\~{o}es te\'{o}rico-metodol\'{o}gicas a respeito de uma interface sociofuncionalista},
+  volume       = {15},
+  year         = {2013},
+  number       = {esp.},
+  pages        = {79--101},
+}
+
+@Article{GorVal21,
+  author       = {G\"{o}rski, Edair Maria and Valle, Carla Regina Marins},
+  journaltitle = {Estudos da L\'{i}ngua(gem)},
+  title        = {A din\^{a}mica do significado social na gramaticaliza\c{c}\~{a}o: desafios para uma abordagem sociofuncionalista},
+  volume       = {19},
+  year         = {2021},
+  note         = {Vit\'{o}ria da Conquista},
+  number       = {4},
+  pages        = {183--207},
+}
+
+@InCollection{TavGor15,
+  author    = {Tavares, Maria Alice and G\"{o}rski, Edair Maria},
+  booktitle = {Mapeamento sociolingu\'{i}stico do portugu\^{e}s brasileiro},
+  title     = {Varia\c{c}\~{a}o e sociofuncionalismo},
+  year      = {2015},
+  editor    = {Martins, Marco Antonio and Abra\c{c}ado, Jussara},
+  pages     = {249--270},
+}
+
+@Book{BON21,
+  author    = {Battisti, Elisa and Othero, Gabriel and Flores, {Valdir do} Nascimento},
+  title     = {Conceitos b\'{a}sicos de {L}ingu\'{i}stica: sistemas conceituais},
+  year      = {2021},
+  publisher = {S\~{a}o Paulo: Contexto},
+}
+
+@Book{Camacho13,
+  author    = {Camacho, Roberto Gomes},
+  title     = {Da Lingu\'{i}stica formal \`{a} Lingu\'{i}stica social},
+  year      = {2013},
+  publisher = {S\~{a}o Paulo: Par\'{a}bola},
+}
+
+@Collection{BarOth22,
+  editor    = {Barbosa Filho, F\'{a}bio Ramos and Othero, Gabriel de \'{A}vila},
+  title     = {Linguagem ``neutra'': l\'{i}ngua e g\^{e}nero em debate},
+  year      = {2022},
+  publisher = {S\~{a}o Paulo: Par\'{a}bola},
+}
+
+@WWW{Oushiro20FELCE,
+  author = {Oushiro, Livia},
+  date   = {2020-09-08},
+  title  = {A import\^{a}ncia dos estudos de avalia\c{c}\~{a}o e percep\c{c}\~{o}es sociolingu\'{i}sticas},
+  url    = {https://www.youtube.com/watch?v=8WUxd_qJebQ&t=5s},
+  note   = {Confer\^{e}ncia de encerramento do {V FELCE} (online)},
+  year   = {2020},
+}
+
+@InCollection{OushiromsOHPL,
+  author    = {Oushiro, Livia},
+  booktitle = {The Oxford Handbook of the Portuguese Language},
+  title     = {Dialect contact in lusophone communities},
+  year      = {no prelo},
+  editor    = {Carvalho, Ana
