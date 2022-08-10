@@ -6746,7 +6746,7 @@
   author    = {Barbosa, A. O.},
   title     = {Brasilienses e a ideia de não sotaque no processo de formação de identidade linguística},
   year      = {2002},
-  publisher = {Disserta c~ao de Mestrado. Campinas: IEL/UNICAMP},
+  publisher = {Disserta\c{c}\~{a}o de Mestrado. Campinas: IEL/UNICAMP},
 }
 
 @Book{Ricardo11,
@@ -7063,9 +7063,25 @@
 }
 
 @Book{Baldez22,
-  author = {Baldez, Diovana da Silveira},
-  title  = {O uso da marca\c{c}\~{a} de g\^{e}nero neutro no {T}witter por uma perspectiva sociolingu\'{i}stica},
-  year   = {2022},
+  author    = {Baldez, Diovana da Silveira},
+  title     = {O uso da marca\c{c}\~{a} de g\^{e}nero neutro no {T}witter por uma perspectiva sociolingu\'{i}stica},
+  year      = {2022},
+  publisher = {Disserta\c{c}\~{a}o de Mestrado. Porto Alegre: PUC/RS},
+}
+
+@Book{OushiromsIEL,
+  author    = {Oushiro, Livia},
+  title     = {Introdu\c{c}\~{a}o \`{a} Estat\'{i}stica para Linguistas},
+  year      = {ms},
+  publisher = {Editora da {ABRALIN}},
+}
+
+@InBook{LimaJrms,
+  author    = {Lima Jr., Ronaldo},
+  booktitle = {Introdu\c{c}\~{a}o \`{a} Estat\'{i}stica para Linguistas},
+  date      = {ms},
+  title     = {Posf\'{a}cio},
+  publisher = {Editora da {ABRALIN}},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
