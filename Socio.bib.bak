@@ -7043,6 +7043,13 @@
   publisher = {S\~{a}o Paulo: Par\'{a}bola},
 }
 
+@WWW{Oushiro20FELCE,
+  author = {Oushiro, Livia},
+  date   = {2020-09-08},
+  title  = {A import\^{a}ncia dos estudos de avalia\c{c}\~{a}o e percep\c{c}\~{o}es sociolingu\'{i}sticas},
+  url    = {https://www.youtube.com/watch?v=8WUxd_qJebQ&t=5s},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
