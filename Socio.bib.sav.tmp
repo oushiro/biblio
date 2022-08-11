@@ -6070,13 +6070,13 @@
 }
 
 @Article{Guy16a,
-  author       = {Guy, Gregory R.},
-  journaltitle = {Cadernos de Estudos Lingu\'{i}sticos},
-  title        = {English in New York, 50 years after},
-  volume       = {58},
-  year         = {2016},
-  number       = {3},
-  pages        = {5},
+  author  = {Guy, Gregory R.},
+  title   = {English in New York, 50 years after},
+  volume  = {58},
+  year    = {2016},
+  number  = {3},
+  pages   = {5},
+  journal = {Cadernos de Estudos Lingu\'{i}sticos},
 }
 
 @Article{Lopesetal16,
@@ -7058,4 +7058,5 @@
   booktitle = {The Oxford Handbook of the Portuguese Language},
   title     = {Dialect contact in lusophone communities},
   year      = {ms},
-  editor    = {Carvalho, Ana Maria a
+  editor    = {Carvalho, Ana Maria and Oushiro, Livia},
+  publisher = {
