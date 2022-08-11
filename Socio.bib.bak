@@ -7076,14 +7076,14 @@
   publisher = {Editora da {ABRALIN}},
 }
 
-@InCollection{LimaJrms,
+@InBook{LimaJrms,
   author     = {Lima Jr., Ronaldo},
   booktitle  = {Introdu\c{c}\~{a}o \`{a} Estat\'{i}stica para Linguistas},
   date       = {ms},
   title      = {Posf\'{a}cio},
-  year       = {ms},
-  publisher  = {Editora da {ABRALIN}},
   bookauthor = {Oushiro, Livia},
+  publisher  = {Editora da {ABRALIN}},
+  year       = {ms},
 }
 
 @Article{Eckert22,
