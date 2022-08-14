@@ -1741,14 +1741,15 @@
 	Title = {The multilingual apple: {S}panish in {NYC} and the study of language contact and change},
 	Year = {s/d}}
 
-@incollection{Faraco02,
-	Author = {Faraco, Carlos Alberto},
-	Booktitle = {Lingu\'{i}stica da norma},
-	Editor = {Bagno, Marcos},
-	Pages = {35--56},
-	Publisher = {S\~{a}o Paulo: Loyola},
-	Title = {Norma padr\~{a}o brasileira: desembara\c{c}ando alguns n\'{o}s},
-	Year = {2002}}
+@InCollection{Faraco02,
+  author    = {Faraco, Carlos Alberto},
+  booktitle = {Lingu\'{i}stica da norma},
+  title     = {Norma-padr\~{a}o brasileira: desembara\c{c}ando alguns n\'{o}s},
+  year      = {2002},
+  editor    = {Bagno, Marcos},
+  pages     = {35--56},
+  publisher = {S\~{a}o Paulo: Loyola},
+}
 
 @Incollection{Faraco06,
   author     = {Faraco, Carlos Alberto},
@@ -6075,7 +6076,7 @@
   volume  = {58},
   year    = {2016},
   number  = {3},
-  pages   = {5},
+  pages   = {521--533},
   journal = {Cadernos de Estudos Lingu\'{i}sticos},
 }
 
