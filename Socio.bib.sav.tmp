@@ -4462,15 +4462,16 @@
   timestamp = {2010.10.24},
 }
 
-@incollection{Preston13,
-	Author = {Preston, Dennis},
-	Booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
-	Edition = {2},
-	Editor = {Chambers, J. K. and Schilling, Natalie},
-	Pages = {157--182},
-	Publisher = {Malden/MA: Wiley-Blackwell},
-	Title = {Language with an attitude},
-	Year = {2013}}
+@InCollection{Preston13,
+  author    = {Preston, Dennis},
+  booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
+  title     = {Language with an attitude},
+  year      = {2013 [2002]},
+  edition   = {2},
+  editor    = {Chambers, J. K. and Schilling, Natalie},
+  pages     = {157--182},
+  publisher = {Malden/MA: Wiley-Blackwell},
+}
 
 @book{Preston99,
 	Author = {Preston, Dennis},
@@ -4481,15 +4482,16 @@
 	Title = {Handbook of Perceptual Dialectology, vol. 1},
 	Year = {1999}}
 
-@incollection{Queen13,
-	Author = {Queen, Robin},
-	Booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
-	Edition = {2},
-	Editor = {Chambers, J. K. and Schilling, Natalie},
-	Pages = {368--387},
-	Publisher = {Malden, MA: Blackwell},
-	Title = {Gender, sex, sexuality, and sexual identities},
-	Year = {2013}}
+@InCollection{Queen13,
+  author    = {Queen, Robin},
+  booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
+  title     = {Gender, sex, sexuality, and sexual identities},
+  year      = {2013 [2002]},
+  edition   = {2},
+  editor    = {Chambers, J. K. and Schilling, Natalie},
+  pages     = {368--387},
+  publisher = {Malden, MA: Blackwell},
+}
 
 @misc{RCore19,
 	Author = {{R Core Team}},
@@ -7057,5 +7059,4 @@
 @WWW{Oushiro20FELCE,
   author = {Oushiro, Livia},
   date   = {2020-09-08},
-  title  = {A import\^{a}ncia dos estudos de avalia\c{c}\~{a}o e percep\c{c}\~{o}es sociolingu\'{i}sticas},
-  url    = {ht
+  title  = {A import\^{a}ncia dos estudos de a
