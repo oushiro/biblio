@@ -722,16 +722,17 @@
 	Year = {2007},
 	Bdsk-Url-1 = {https://repositorio.ufba.br/ri/bitstream/ri/12040/1/Vivian%20Antonino%20-%20Disserta%C3%A7%C3%A3o.pdf}}
 
-@incollection{Ash02,
-	Author = {Ash, Sharon},
-	Booktitle = {The handbook of language variation and change},
-	Editor = {Chambers, J.K. and N. Schilling-Estes},
-	Owner = {Livia},
-	Pages = {350--367},
-	Publisher = {Malden, MA: Blackwell},
-	Timestamp = {2010.12.01},
-	Title = {Social class},
-	Year = {2013 [2002]}}
+@InCollection{Ash02,
+  author    = {Ash, Sharon},
+  booktitle = {The andbook of language variation and change},
+  title     = {Social class},
+  year      = {2013 [2002]},
+  editor    = {Chambers, J.K. and N. Schilling-Estes},
+  pages     = {350--367},
+  publisher = {Malden, MA: Blackwell},
+  owner     = {Livia},
+  timestamp = {2010.12.01},
+}
 
 @inproceedings{Augusto05,
 	Author = {Augusto, Marina R. A.},
@@ -1058,14 +1059,15 @@
 	Year = {2008},
 	Bdsk-Url-1 = {http://www.uel.br/revistas/uel/index.php/signum/article/view/3041/2584}}
 
-@incollection{Britain13,
-	Author = {Britain, David},
-	Booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
-	Editor = {Chambers, J.K. and Schilling, N.},
-	Pages = {472--500},
-	Publisher = {Malden/MA: Wiley-Blackwell},
-	Title = {Space, diffusion and mobility},
-	Year = {2013}}
+@InCollection{Britain13,
+  author    = {Britain, David},
+  booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
+  title     = {Space, diffusion and mobility},
+  year      = {2013 [2002]},
+  editor    = {Chambers, J.K. and Schilling, N.},
+  pages     = {472--500},
+  publisher = {Malden/MA: Wiley-Blackwell},
+}
 
 @incollection{Britain10,
 	Author = {Britain, David},
@@ -1392,16 +1394,17 @@
 	Volume = {3},
 	Year = {2000}}
 
-@incollection{Cheshire02,
-	Author = {Cheshire, Jenny},
-	Booktitle = {The handbook of language variation and change},
-	Editor = {Chambers, J., J. K. and Trudgill, P., and Schilling-Estes, N.},
-	Owner = {Livia},
-	Pages = {423--443},
-	Publisher = {Malden, MA: Blackwell},
-	Timestamp = {2012.05.10},
-	Title = {Sex and Gender in Variationist Research},
-	Year = {2002}}
+@InCollection{Cheshire02,
+  author    = {Cheshire, Jenny},
+  booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
+  title     = {Sex and Gender in Variationist Research},
+  year      = {2002},
+  editor    = {Chambers, J., J. K. and Trudgill, P., and Schilling-Estes, N.},
+  pages     = {423--443},
+  publisher = {Malden, MA: Blackwell},
+  owner     = {Livia},
+  timestamp = {2012.05.10},
+}
 
 @incollection{Che05b,
 	Author = {Cheshire, Jenny},
@@ -1556,14 +1559,15 @@
 	Title = {Fon\'{e}tica e fonologia do portugu\^{e}s. Roteiro de estudos e guia de exerc\'{i}cios},
 	Year = {2007}}
 
-@incollection{CukBay13,
-	Author = {Cukor-Avila, Patricia and Bayley, Guy},
-	Booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
-	Editor = {J.K. Chambers and N. Schilling-Estes},
-	Pages = {239--262},
-	Publisher = {Malden, MA: Blackwell},
-	Title = {Real time and apparent time},
-	Year = {2013}}
+@InCollection{CukBay13,
+  author    = {Cukor-Avila, Patricia and Bayley, Guy},
+  booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
+  title     = {Real time and apparent time},
+  year      = {2013 [2002]},
+  editor    = {J.K. Chambers and N. Schilling-Estes},
+  pages     = {239--262},
+  publisher = {Malden, MA: Blackwell},
+}
 
 @book{CunCin07,
 	Author = {Cunha, Celso and Cintra, Lindley},
@@ -1882,17 +1886,18 @@
 	Title = {Attitudes to language},
 	Year = {2010}}
 
-@incollection{GilBil04,
-	Author = {Giles, Howard and Billings, Andrew C.},
-	Booktitle = {The handbook of applied linguistics},
-	Doi = {10.1002/9780470757000.ch7},
-	Editor = {Davies, Alan and Elder, Catherine},
-	Owner = {Livia},
-	Publisher = {Malden, MA: Blackwell},
-	Timestamp = {2014.08.07},
-	Title = {Assessing language attitudes: speaker evaluation studies},
-	Year = {2004},
-	Bdsk-Url-1 = {https://doi.org/10.1002/9780470757000.ch7}}
+@InCollection{GilBil04,
+  author     = {Giles, Howard and Billings, Andrew C.},
+  booktitle  = {The andbook of applied linguistics},
+  title      = {Assessing language attitudes: speaker evaluation studies},
+  year       = {2004},
+  doi        = {10.1002/9780470757000.ch7},
+  editor     = {Davies, Alan and Elder, Catherine},
+  publisher  = {Malden, MA: Blackwell},
+  bdsk-url-1 = {https://doi.org/10.1002/9780470757000.ch7},
+  owner      = {Livia},
+  timestamp  = {2014.08.07},
+}
 
 @article{GTB73,
 	Author = {Giles, Howard and Taylor, D. and Bourhis, R.},
@@ -2592,17 +2597,18 @@
 	Title = {Package `vowels'},
 	Year = {2015}}
 
-@incollection{Kiesling13,
-	Author = {Kiesling, Scott F.},
-	Booktitle = {The handbook of language variation and change},
-	Edition = {2},
-	Editor = {Chambers, J. K. and Schilling, Natalie},
-	Owner = {Livia},
-	Pages = {448--467},
-	Publisher = {Malden, MA: Wiley-Blackwell},
-	Timestamp = {2014.09.19},
-	Title = {Constructing identity},
-	Year = {2013}}
+@InCollection{Kiesling13,
+  author    = {Kiesling, Scott F.},
+  booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
+  title     = {Constructing identity},
+  year      = {2013 [2002]},
+  edition   = {2},
+  editor    = {Chambers, J. K. and Schilling, Natalie},
+  pages     = {448--467},
+  publisher = {Malden, MA: Wiley-Blackwell},
+  owner     = {Livia},
+  timestamp = {2014.09.19},
+}
 
 @incollection{KleCar13,
 	Author = {Klee, Carol A. and Caravedo, Rocio},
@@ -3425,16 +3431,17 @@
 	Year = {2011},
 	Bdsk-Url-1 = {http://sites.google.com/site/valp2011/programme}}
 
-@incollection{Mendoza02,
-	Author = {Mendoza-Denton, Norma},
-	Booktitle = {The handbook of language variation and change},
-	Editor = {Chambers, J.K. and P. Trudgill and N. Schilling-Estes},
-	Owner = {Livia},
-	Pages = {475--499},
-	Publisher = {Malden, MA: Blackwell},
-	Timestamp = {2010.10.24},
-	Title = {Language and identity},
-	Year = {2002}}
+@InCollection{Mendoza02,
+  author    = {Mendoza-Denton, Norma},
+  booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
+  title     = {Language and identity},
+  year      = {2002},
+  editor    = {Chambers, J.K. and P. Trudgill and N. Schilling-Estes},
+  pages     = {475--499},
+  publisher = {Malden, MA: Blackwell},
+  owner     = {Livia},
+  timestamp = {2010.10.24},
+}
 
 @article{Menuzzi94,
 	Author = {Menuzzi, Sergio},
@@ -3485,17 +3492,18 @@
 	Title = {Sociolinguistics: Method and Interpretation},
 	Year = {2003}}
 
-@incollection{MilLam13,
-	Author = {Milroy, Leslie and Llamas, Carmen},
-	Booktitle = {The handbook of language variation and change},
-	Edition = {2},
-	Editor = {Chambers, J.K. and N. Schilling-Estes},
-	Owner = {Livia},
-	Pages = {409--427},
-	Publisher = {Malden, MA: Blackwell},
-	Timestamp = {2010.10.24},
-	Title = {Social networks},
-	Year = {2013 [2002]}}
+@InCollection{MilLam13,
+  author    = {Milroy, Leslie and Llamas, Carmen},
+  booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
+  title     = {Social networks},
+  year      = {2013 [2002]},
+  edition   = {2},
+  editor    = {Chambers, J.K. and N. Schilling-Estes},
+  pages     = {409--427},
+  publisher = {Malden, MA: Blackwell},
+  owner     = {Livia},
+  timestamp = {2010.10.24},
+}
 
 @unpublished{Miotosd,
 	Author = {Mioto, Carlos},
@@ -4443,25 +4451,27 @@
 	Title = {The care and handling of a mega-corpus},
 	Year = {1989}}
 
-@incollection{Preston02,
-	Author = {Preston, Dennis},
-	Booktitle = {The handbook of language variation and change},
-	Editor = {Chambers, J.K. and P. Trudgill and N. Schilling-Estes},
-	Owner = {Livia},
-	Publisher = {Malden, MA: Blackwell},
-	Timestamp = {2010.10.24},
-	Title = {Language with an attitude},
-	Year = {2002}}
+@InCollection{Preston02,
+  author    = {Preston, Dennis},
+  booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
+  title     = {Language with an attitude},
+  year      = {2002},
+  editor    = {Chambers, J.K. and P. Trudgill and N. Schilling-Estes},
+  publisher = {Malden, MA: Blackwell},
+  owner     = {Livia},
+  timestamp = {2010.10.24},
+}
 
-@incollection{Preston13,
-	Author = {Preston, Dennis},
-	Booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
-	Edition = {2},
-	Editor = {Chambers, J. K. and Schilling, Natalie},
-	Pages = {157--182},
-	Publisher = {Malden/MA: Wiley-Blackwell},
-	Title = {Language with an attitude},
-	Year = {2013}}
+@InCollection{Preston13,
+  author    = {Preston, Dennis},
+  booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
+  title     = {Language with an attitude},
+  year      = {2013 [2002]},
+  edition   = {2},
+  editor    = {Chambers, J. K. and Schilling, Natalie},
+  pages     = {157--182},
+  publisher = {Malden/MA: Wiley-Blackwell},
+}
 
 @book{Preston99,
 	Author = {Preston, Dennis},
@@ -4472,15 +4482,16 @@
 	Title = {Handbook of Perceptual Dialectology, vol. 1},
 	Year = {1999}}
 
-@incollection{Queen13,
-	Author = {Queen, Robin},
-	Booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
-	Edition = {2},
-	Editor = {Chambers, J. K. and Schilling, Natalie},
-	Pages = {368--387},
-	Publisher = {Malden, MA: Blackwell},
-	Title = {Gender, sex, sexuality, and sexual identities},
-	Year = {2013}}
+@InCollection{Queen13,
+  author    = {Queen, Robin},
+  booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
+  title     = {Gender, sex, sexuality, and sexual identities},
+  year      = {2013 [2002]},
+  edition   = {2},
+  editor    = {Chambers, J. K. and Schilling, Natalie},
+  pages     = {368--387},
+  publisher = {Malden, MA: Blackwell},
+}
 
 @misc{RCore19,
 	Author = {{R Core Team}},
@@ -6827,7 +6838,7 @@
 
 @InCollection{Kerswill13,
   author    = {Kerswill, Paul},
-  booktitle = {The Handbook of Language Variation and Change},
+  booktitle = {The {H}andbook of {L}anguage {V}ariation and {C}hange},
   title     = {Koineization},
   year      = {2013},
   editor    = {Chambers, J. K. and Schilling, N.},
