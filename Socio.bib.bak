@@ -7150,6 +7150,16 @@
   pages        = {175--202},
 }
 
+@Article{Wielingetal16,
+  author       = {Wieling, M.; and Grieve, J. and Bouma, G. and Fruehwald, J. and Coleman, J. and Liberman, M.},
+  journaltitle = {Language Dynamics and Change},
+  title        = {Variation and Change in the Use of Hesitation Markers in Germanic Languages},
+  volume       = {6},
+  year         = {2016},
+  number       = {2},
+  pages        = {199–234},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
