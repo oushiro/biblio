@@ -7114,13 +7114,13 @@
 }
 
 @Article{Fruehwald16,
-  author       = {Fruehwald, Josef},
-  journaltitle = {University of Pennsylvania Working Papers in Linguistics},
-  title        = {Filled pause choice as a sociolinguistic variable},
-  volume       = {22},
-  year         = {2016},
-  number       = {2},
-  pages        = {41--49},
+  author  = {Fruehwald, Josef},
+  title   = {Filled pause choice as a sociolinguistic variable},
+  volume  = {22},
+  year    = {2016},
+  number  = {2},
+  pages   = {41--49},
+  journal = {University of Pennsylvania Working Papers in Linguistics},
 }
 
 @Article{ErkBru17,
@@ -7142,22 +7142,22 @@
 }
 
 @Article{Nycz18,
-  author       = {Nycz, Jennifer},
-  journaltitle = {Language Variation and Change},
-  title        = {Stylistic variation among mobile speakers: using old and new regional variables to construct complex place identity},
-  volume       = {30},
-  year         = {2018},
-  pages        = {175--202},
+  author  = {Nycz, Jennifer},
+  title   = {Stylistic variation among mobile speakers: using old and new regional variables to construct complex place identity},
+  volume  = {30},
+  year    = {2018},
+  pages   = {175--202},
+  journal = {Language Variation and Change},
 }
 
 @Article{Wielingetal16,
-  author       = {Wieling, M.; and Grieve, J. and Bouma, G. and Fruehwald, J. and Coleman, J. and Liberman, M.},
-  journaltitle = {Language Dynamics and Change},
-  title        = {Variation and Change in the Use of Hesitation Markers in Germanic Languages},
-  volume       = {6},
-  year         = {2016},
-  number       = {2},
-  pages        = {199–234},
+  author  = {Wieling, M.; and Grieve, J. and Bouma, G. and Fruehwald, J. and Coleman, J. and Liberman, M.},
+  title   = {Variation and Change in the Use of Hesitation Markers in Germanic Languages},
+  volume  = {6},
+  year    = {2016},
+  number  = {2},
+  pages   = {199–234},
+  journal = {Language Dynamics and Change},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
