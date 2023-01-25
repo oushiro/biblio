@@ -6940,13 +6940,6 @@
   publisher = {Malden, MA: Wiley-Blackwell},
 }
 
-@Misc{Oushirond,
-  author = {Oushiro, Livia},
-  title  = {Dialect contact in lusophone communities},
-  year   = {under review},
-  note   = {Ms.},
-}
-
 @Book{Silveira22mestrado,
   author    = {Silveira, Gustavo de Campos Pinheiro da},
   title     = {The prosody of speech in a dialect contact situation: a sociophonetic study of the speech of {A}lagoan migrants in {S}\~{a}o {P}aulo},
@@ -7062,11 +7055,11 @@
   year   = {2020},
 }
 
-@InCollection{OushiromsOHPL,
+@InCollection{OushiroOHPL,
   author    = {Oushiro, Livia},
   booktitle = {The Oxford Handbook of the Portuguese Language},
   title     = {Dialect contact in lusophone communities},
-  year      = {ms},
+  year      = {no prelo},
   editor    = {Carvalho, Ana Maria and Oushiro, Livia},
   publisher = {Oxford: Oxford University Press},
 }
@@ -7274,9 +7267,36 @@
 @Online{SilOusprelo,
   author = {Silveira, Gustavo de Campos da and Oushiro, Livia},
   editor = {Barbosa, Plinio and Raso, Tommaso},
-  title  = {Verbetes LBASS},
+  title  = {Sociofon\'{e}tica},
   url    = {http://www.letras.ufmg.br/padrao_cms/index.php?web=lbass&lang=1&page=3597&menu=2303&tipo=1},
+  note   = {Verbetes LBASS},
   year   = {no prelo},
+}
+
+@InCollection{GOM22,
+  author    = {Guy, Gregory R. and Oushiro, Livia and Mendes, Ronald Beline},
+  booktitle = {The coherence of linguistic communities: orderly heterogeneity and social meaning},
+  title     = {Indexicality and coherence},
+  year      = {2022},
+  pages     = {53--68},
+  publisher = {New York: Routledge},
+}
+
+@InCollection{OushiroEstudoComparativo,
+  author    = {Oushiro, Livia},
+  booktitle = {Para o estudo comparativo de variedades do Português: questões teórico-metodológicas e análises de dados},
+  title     = {O estudo da fala de migrantes internos: desafios, procedimentos e resultados do Projeto Acomodação},
+  year      = {no prelo},
+  editor    = {Brandão, Silvia Figueiredo and Vieira, Silvia Rodrigues},
+  publisher = {Mouton de Gruyter},
+}
+
+@InCollection{OushiroGURT,
+  author    = {Oushiro, Livia},
+  booktitle = {Proceedings of the Georgetown University Roundtable 2022},
+  title     = {Interaction, confounding effect, and multicollinearity in the analysis of Brazilian internal migrants’ speech},
+  year      = {no prelo},
+  editor    = {Nycz, Jennifer and Fernández-Mallat, Victor},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
