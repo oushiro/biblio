@@ -7284,10 +7284,10 @@
 
 @InCollection{OushiroEstudoComparativo,
   author    = {Oushiro, Livia},
-  booktitle = {Para o estudo comparativo de variedades do Português: questões teórico-metodológicas e análises de dados},
-  title     = {O estudo da fala de migrantes internos: desafios, procedimentos e resultados do Projeto Acomodação},
+  booktitle = {Para o estudo comparativo de variedades do Portugu\^{e}s: quest\~{o}es te\'{o}rico-metodol\'{o}gicas e an\'{a}lises de dados},
+  title     = {O estudo da fala de migrantes internos: desafios, procedimentos e resultados do Projeto Acomoda\c{c}\~{a}o},
   year      = {no prelo},
-  editor    = {Brandão, Silvia Figueiredo and Vieira, Silvia Rodrigues},
+  editor    = {Brand\~{a}o, Silvia Figueiredo and Vieira, Silvia Rodrigues},
   publisher = {Mouton de Gruyter},
 }
 
@@ -7297,9 +7297,6 @@
   title     = {Interaction, confounding effect, and multicollinearity in the analysis of Brazilian internal migrants’ speech},
   year      = {no prelo},
   editor    = {Nycz, Jennifer and Fernández-Mallat, Victor},
-}
-
-@Article{,
 }
 
 @Misc{Barbosa22,
