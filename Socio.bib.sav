@@ -7341,7 +7341,7 @@
   booktitle = {Intelligent Systems},
   title     = {Towards a Free, Forced Phonetic Aligner for Brazilian Portuguese Using Kaldi Tools},
   year      = {2020},
-  doi       = {doi.org/10.1007/978-3-030-61377-8_44},
+  doi       = {10.1007/978-3-030-61377-8_44},
   editor    = {Cerri, Ricardo and Prati, Ronaldo C.},
   pages     = {621--635},
   publisher = {Springer International Publishing},
