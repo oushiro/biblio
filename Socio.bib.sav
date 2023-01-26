@@ -7256,7 +7256,7 @@
 }
 
 @Online{SilOusprelo,
-  author = {Silveira, Gustavo de Campos da and Oushiro, Livia},
+  author = {Silveira, Gustavo de Campos Pinheiro da and Oushiro, Livia},
   editor = {Barbosa, Plinio and Raso, Tommaso},
   title  = {Sociofon\'{e}tica},
   url    = {http://www.letras.ufmg.br/padrao_cms/index.php?web=lbass&lang=1&page=3597&menu=2303&tipo=1},
@@ -7345,6 +7345,35 @@
   editor    = {Cerri, Ricardo and Prati, Ronaldo C.},
   pages     = {621--635},
   publisher = {Springer International Publishing},
+}
+
+@Article{ASV04Normalization,
+  author       = {Adank, Patti and Smits, Roel and van Hout, Roeland},
+  journaltitle = {Journal of the Acoustical Society of America},
+  title        = {A comparison of vowel normalization procedures for language variation research},
+  volume       = {116},
+  year         = {2004},
+  pages        = {3099--3107},
+}
+
+@Article{Clopper09,
+  author       = {Clopper, Cynthia},
+  journaltitle = {Language and Linguistics Compass},
+  title        = {Computational methods for normalization acoustic vowel data for talker differences},
+  volume       = {3},
+  year         = {2009},
+  number       = {6},
+  pages        = {1430--1442},
+}
+
+@InProceedings{Toda07,
+  author       = {Toda, Martine},
+  booktitle    = {16th International Congress on Phonetic Sciences},
+  title        = {Speaker normalization of fricative noise: considerations on language-specific contrast},
+  year         = {2007},
+  pages        = {825--828},
+  publisher    = {Saarbrucken, Germany},
+  journaltitle = {16th International Congress on Phonetic Sciences},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
