@@ -7367,13 +7367,12 @@
 }
 
 @InProceedings{Toda07,
-  author       = {Toda, Martine},
-  booktitle    = {16th International Congress on Phonetic Sciences},
-  title        = {Speaker normalization of fricative noise: considerations on language-specific contrast},
-  year         = {2007},
-  pages        = {825--828},
-  publisher    = {Saarbrucken, Germany},
-  journaltitle = {16th International Congress on Phonetic Sciences},
+  author    = {Toda, Martine},
+  booktitle = {16th International Congress on Phonetic Sciences},
+  title     = {Speaker normalization of fricative noise: considerations on language-specific contrast},
+  year      = {2007},
+  pages     = {825--828},
+  publisher = {Saarbrucken, Germany},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
