@@ -7474,11 +7474,15 @@
   note        = {Disserta\c{c}\~{a}o de Mestrado},
 }
 
-@InCollection{,
+@InCollection{SSF16VogaisMedias,
   author    = {Gl\'{a}disson Garcia Arag\~{a}o Souza and Souza Neto, Ant\^{o}nio F\'{e}lix de and Raquel Meister Ko. Freitag},
   booktitle = {Sociolingu\'{i}stica e pol\'{i}tica lingu\'{i}stica: olhares contempor\^{a}neos},
   title     = {As vogais m\'{e}dias [e] e [o]: um estudo fon\'{e}tico-ac\'{u}stico e comparativo},
+  year      = {2016},
   doi       = {10.5151/9788580391466-01},
+  editor    = {Freitag, Raquel Meister Ko. and Severo, Cristine Gorski and Gorski, Edair Maria},
+  pages     = {21--34},
+  url       = {openaccess.blucher.com.br/article-details/as-vogais-medias-19929},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
