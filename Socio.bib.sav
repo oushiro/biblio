@@ -6931,12 +6931,12 @@
   publisher = {Malden, MA: Wiley-Blackwell},
 }
 
-@Book{Silveira22mestrado,
-  author    = {Silveira, Gustavo de Campos Pinheiro da},
-  title     = {The prosody of speech in a dialect contact situation: a sociophonetic study of the speech of {A}lagoan migrants in {S}\~{a}o {P}aulo},
-  year      = {2022},
-  note      = {158ff},
-  publisher = {Master's Dissertation. Campinas: {IEL/UNICAMP}},
+@MastersThesis{Silveira22mestrado,
+  author      = {Silveira, Gustavo de Campos Pinheiro da},
+  institution = {IEL/UNICAMP},
+  title       = {The prosody of speech in a dialect contact situation: a sociophonetic study of the speech of {A}lagoan migrants in {S}\~{a}o {P}aulo},
+  year        = {2022},
+  note        = {158ff},
 }
 
 @Misc{Ferraz22,
@@ -7492,6 +7492,16 @@
   year         = {2010},
   doi          = {https://doi.org/10.1515/ijsl.2010.019},
   pages        = {9--26},
+}
+
+@Article{Erker12DiscreteGradient,
+  author       = {Erker, Daniel G.},
+  journaltitle = {University of Pennsylvania Working Papers in Linguistics},
+  title        = {Of Categories and Continua: Relating Discrete and Gradient Properties of Sociophonetic Variation},
+  volume       = {18},
+  year         = {2012},
+  number       = {2},
+  pages        = {11--20},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
