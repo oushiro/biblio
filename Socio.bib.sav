@@ -4023,27 +4023,30 @@
 	Title = {Introdu\c{c}\~{a}o \`{a} Estat\'{i}stica para Linguistas, v.1.0.1},
 	Year = {2017}}
 
-@article{Oushiro16a,
-	Author = {Oushiro, Livia},
-	Journal = {Lingua},
-	Owner = {Livia},
-	Pages = {116--130},
-	Timestamp = {2016.03.12},
-	Title = {Social and structural constraints in lectal cohesion},
-	Volume = {172--3},
-	Year = {2016}}
+@Article{Oushiro16Lingua,
+  author    = {Oushiro, Livia},
+  title     = {Social and structural constraints in lectal cohesion},
+  volume    = {172--3},
+  year      = {2016},
+  pages     = {116--130},
+  journal   = {Lingua},
+  owner     = {Livia},
+  timestamp = {2016.03.12},
+}
 
-@unpublished{Oushiro16b,
-	Author = {Oushiro, Livia},
-	Owner = {Livia},
-	Timestamp = {2016.03.14},
-	Title = {A acomoda\c{c}\~{a}o dialetal e a estabilidade de padr\~{o}es sociolingu\'{i}sticos na fala adulta. {R}elat\'{o}rio final apresentado ao {P}rograma de {P}\'{o}s-{G}radua\c{c}\~{a}o em {L}ingu\'{i}stica da {UFRJ} referente \`{a} pesquisa financiada com bolsa {PNPD/CAPES}},
-	Year = {2016}}
+@Unpublished{Oushiro16PNPD,
+  author    = {Oushiro, Livia},
+  title     = {A acomoda\c{c}\~{a}o dialetal e a estabilidade de padr\~{o}es sociolingu\'{i}sticos na fala adulta. {R}elat\'{o}rio final apresentado ao {P}rograma de {P}\'{o}s-{G}radua\c{c}\~{a}o em {L}ingu\'{i}stica da {UFRJ} referente \`{a} pesquisa financiada com bolsa {PNPD/CAPES}},
+  year      = {2016},
+  owner     = {Livia},
+  timestamp = {2016.03.14},
+}
 
-@misc{Oushiro16c,
-	Author = {Oushiro, Livia},
-	Title = {Projeto {P}rocessos de {A}comoda\c{c}\~{a}o {D}ialetal na {F}ala de {N}ordestinos {R}esidentes em {S}\~{a}o {P}aulo},
-	Year = {2016}}
+@Misc{Oushiro16ProjFAPESP,
+  author = {Oushiro, Livia},
+  title  = {Projeto {P}rocessos de {A}comoda\c{c}\~{a}o {D}ialetal na {F}ala de {N}ordestinos {R}esidentes em {S}\~{a}o {P}aulo},
+  year   = {2016},
+}
 
 @book{Oushiro15a,
 	Author = {Oushiro, Livia},
@@ -7375,15 +7378,6 @@
   publisher = {Saarbrucken, Germany},
 }
 
-@Article{NakSch13R2,
-  author       = {Shinichi Nakagawa and Holger Schielzeth},
-  journaltitle = {Methods in Ecology and Evolution},
-  title        = {A general and simple method for obtaining R2 from generalized linear mixed-effects models},
-  volume       = {4},
-  year         = {2013},
-  pages        = {133--142},
-}
-
 @Article{Thomas16,
   author       = {Thomas, Erik R.},
   journaltitle = {Annual Review of Linguistics},
@@ -7473,17 +7467,6 @@
   note        = {Disserta\c{c}\~{a}o de Mestrado},
 }
 
-@InCollection{SSF16VogaisMedias,
-  author    = {Gl\'{a}disson Garcia Arag\~{a}o Souza and Souza Neto, Ant\^{o}nio F\'{e}lix de and Raquel Meister Ko. Freitag},
-  booktitle = {Sociolingu\'{i}stica e pol\'{i}tica lingu\'{i}stica: olhares contempor\^{a}neos},
-  title     = {As vogais m\'{e}dias [e] e [o]: um estudo fon\'{e}tico-ac\'{u}stico e comparativo},
-  year      = {2016},
-  doi       = {10.5151/9788580391466-01},
-  editor    = {Freitag, Raquel Meister Ko. and Severo, Cristine Gorski and Gorski, Edair Maria},
-  pages     = {21--34},
-  url       = {openaccess.blucher.com.br/article-details/as-vogais-medias-19929},
-}
-
 @Article{Erker10SDominican,
   author       = {Erker, Daniel G.},
   journaltitle = {International Journal of the Sociology of Language},
@@ -7502,6 +7485,26 @@
   year         = {2012},
   number       = {2},
   pages        = {11--20},
+}
+
+@Article{NakSch13R2,
+  author       = {Shinichi Nakagawa and Holger Schielzeth},
+  journaltitle = {Methods in Ecology and Evolution},
+  title        = {A general and simple method for obtaining R2 from generalized linear mixed-effects models},
+  volume       = {4},
+  year         = {2013},
+  pages        = {133--142},
+}
+
+@InCollection{SSF16VogaisMedias,
+  author    = {Gl\'{a}disson Garcia Arag\~{a}o Souza and Souza Neto, Ant\^{o}nio F\'{e}lix de and Raquel Meister Ko. Freitag},
+  booktitle = {Sociolingu\'{i}stica e pol\'{i}tica lingu\'{i}stica: olhares contempor\^{a}neos},
+  title     = {As vogais m\'{e}dias [e] e [o]: um estudo fon\'{e}tico-ac\'{u}stico e comparativo},
+  year      = {2016},
+  doi       = {10.5151/9788580391466-01},
+  editor    = {Freitag, Raquel Meister Ko. and Severo, Cristine Gorski and Gorski, Edair Maria},
+  pages     = {21--34},
+  url       = {openaccess.blucher.com.br/article-details/as-vogais-medias-19929},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
