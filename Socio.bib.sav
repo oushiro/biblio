@@ -7394,7 +7394,7 @@
   pages        = {95--113},
 }
 
-@Article{Silveira22R,
+@Article{Silveira22RSBC,
   author       = {Silveira, Gustavo de Campos Pinheiro da},
   journaltitle = {Dom\'{i}nios de Lingu@gem},
   title        = {Efeitos do abaixamento na frequ\^{e}ncia do terceiro formante na pron\'{u}ncia aproximante do /r/ em coda sobre a percep\c{c}\~{a}o social de falantes em {S}\~{a}o {B}ernardo do {C}ampo},
@@ -7402,6 +7402,29 @@
   year         = {2022},
   number       = {3},
   pages        = {928--952},
+}
+
+@Book{PreNie10,
+  title     = {A Reader in Sociophonetics},
+  year      = {2010},
+  editor    = {Preston, Dennis R. and Niedzielski, Nancy},
+  publisher = {New York: Walter de Gruyter},
+}
+
+@Book{CelCal14Sociophonetics,
+  title     = {Advances in Sociophonetics},
+  year      = {2014},
+  editor    = {Chiara Celata and Silvia Calamai},
+  publisher = {Amsterdam/Philadelphia: John Benjamins},
+}
+
+@PhdThesis{Biasibetti18,
+  author      = {Biasibetti, Ana Paula Correa da Silva},
+  institution = {PUC-RS},
+  title       = {Produ\c{c}\~{a}o e percep\c{c}\~{a}o das fricativas sibilantes em {Porto Alegre/RS e Florianópolis/SC}},
+  year        = {2018},
+  location    = {Porto Alegre},
+  note        = {Tese de Doutorado em Lingu\'{i}stica},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
