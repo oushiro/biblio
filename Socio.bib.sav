@@ -7507,6 +7507,23 @@
   url       = {openaccess.blucher.com.br/article-details/as-vogais-medias-19929},
 }
 
+@Article{Biasibetti17statusVariavel,
+  author       = {Biasibetti, Ana Paula Correa da Silva},
+  journaltitle = {WebRevista Sociodialeto},
+  title        = {O status da vari\'{a}vel sociolingu\'{i}stica sob as perspectivas da Sociolingu\'{i}stica Variacionista e da Sociofon\'{e}tica},
+  volume       = {7},
+  year         = {2017},
+  number       = {20},
+  pages        = {429--440},
+}
+
+@Misc{Oushiro17RelFAPESP1,
+  author = {Oushiro, Livia},
+  title  = {Relat\'{o}rio Parcial do Projeto ``Processos de acomoda\c{c}\~{a}o dialetal na fala de nordestinos residentes em S\~{a}o Paulo'' ({FAPESP} 2016/04960-7).},
+  year   = {2017},
+  note   = {Ms.},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
