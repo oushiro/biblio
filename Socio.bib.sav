@@ -7258,13 +7258,12 @@
   publisher = {Malden, MA: Wiley-Blackwell},
 }
 
-@Online{SilOusprelo,
+@Misc{SilOusprelo,
   author = {Silveira, Gustavo de Campos Pinheiro da and Oushiro, Livia},
   editor = {Barbosa, Plinio and Raso, Tommaso},
   title  = {Sociofon\'{e}tica},
-  url    = {http://www.letras.ufmg.br/padrao_cms/index.php?web=lbass&lang=1&page=3597&menu=2303&tipo=1},
-  note   = {Verbetes LBASS},
   year   = {no prelo},
+  note   = {Verbetes LBASS},
 }
 
 @InCollection{GOM22,
@@ -7335,7 +7334,6 @@
   title        = {Free resources for forced phonetic alignment in {B}razilian {P}ortuguese based on {K}aldi toolkit},
   volume       = {11},
   year         = {2022},
-  doi          = {https://doi.org/10.1186/s13634-022-00844-9},
   pages        = {1--32},
 }
 
@@ -7362,7 +7360,7 @@
 @Article{Clopper09,
   author       = {Clopper, Cynthia},
   journaltitle = {Language and Linguistics Compass},
-  title        = {Computational methods for normalization acoustic vowel data for talker differences},
+  title        = {Computational methods for normalizing acoustic vowel data for talker differences},
   volume       = {3},
   year         = {2009},
   number       = {6},
@@ -7504,7 +7502,6 @@
   doi       = {10.5151/9788580391466-01},
   editor    = {Freitag, Raquel Meister Ko. and Severo, Cristine Gorski and Gorski, Edair Maria},
   pages     = {21--34},
-  url       = {openaccess.blucher.com.br/article-details/as-vogais-medias-19929},
 }
 
 @Article{Biasibetti17statusVariavel,
@@ -7563,6 +7560,13 @@
   year         = {2017},
   number       = {1},
   pages        = {58--67},
+}
+
+@Misc{Santos22ProjetoIC,
+  author       = {Santos, Iris Massuci Dutra},
+  title        = {Acomoda\c{c}\~{a}o dialetal na fala de migrantesmaranhenses, cearenses e piauienses na Regi\~{a}o Metropolitana de Campinas},
+  year         = {2022},
+  howpublished = {Ms. Projeto de Inicia\c{c}\~{a}o Cient\'{i}fica. IEL/UNICAMP.},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
