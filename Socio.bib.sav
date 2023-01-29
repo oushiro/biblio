@@ -7521,7 +7521,28 @@
   author = {Oushiro, Livia},
   title  = {Relat\'{o}rio Parcial do Projeto ``Processos de acomoda\c{c}\~{a}o dialetal na fala de nordestinos residentes em S\~{a}o Paulo'' ({FAPESP} 2016/04960-7).},
   year   = {2017},
+  doi    = {10.5281/zenodo.6513070},
   note   = {Ms.},
+}
+
+@Article{BreFou17,
+  author       = {Brescancini, Cl\'{a}udia Regina and Foulkes, Paul},
+  journaltitle = {Letras de Hoje},
+  title        = {Sociofon\'{e}tica},
+  volume       = {52},
+  year         = {2017},
+  number       = {1},
+  pages        = {1--2},
+}
+
+@InCollection{BreBia20Sociofonetica,
+  author    = {Brescancini, Cl\'{a}udia Regina and Biasibetti, Ana Paula Correa da Silva},
+  booktitle = {Sociolingu\'{i}stica},
+  title     = {Sociofon\'{e}tica},
+  year      = {2018},
+  editor    = {Loremi Loregian-Penkal and Lucelene Franceschini},
+  pages     = {21--40},
+  publisher = {Guarapuava-PR: EDUNI},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
