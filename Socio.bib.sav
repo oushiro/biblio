@@ -7545,6 +7545,26 @@
   publisher = {Guarapuava-PR: EDUNI},
 }
 
+@Article{Pierrehumbert03,
+  author       = {Pierrehumbert, Janet B.},
+  journaltitle = {Language and Speech},
+  title        = {Phonetic Diversity, Statistical Learning, and Acquisition of Phonology},
+  volume       = {46},
+  year         = {2003},
+  number       = {2--3},
+  pages        = {115--154},
+}
+
+@Article{MGS17Pretonicas,
+  author       = {Meireles, Alexsandro Rodrigues and Gambarini, Viviany de Paula and Maria Marta Pereira Scherre},
+  journaltitle = {Letras de Hoje},
+  title        = {Análise ac\'{u}stica e sociolingu\'{i}stica das vogais m\'{e}dias pret\^{o}nicas faladas em {M}ontanha–{ES}},
+  volume       = {52},
+  year         = {2017},
+  number       = {1},
+  pages        = {58--67},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
