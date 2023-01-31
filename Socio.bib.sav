@@ -7552,6 +7552,20 @@
   pages        = {115--154},
 }
 
+@Misc{Santos22ProjetoIC,
+  author       = {Santos, Iris Massuci Dutra},
+  title        = {Acomoda\c{c}\~{a}o dialetal na fala de migrantesmaranhenses, cearenses e piauienses na Regi\~{a}o Metropolitana de Campinas},
+  year         = {2022},
+  howpublished = {Ms. Projeto de Inicia\c{c}\~{a}o Cient\'{i}fica. IEL/UNICAMP.},
+}
+
+@Misc{Mourao18,
+  author       = {Mour\~{a}o, Natasha Reginato},
+  title        = {Mobilidade e difus\~{a}o lingu\'{i}stica no interior de S\~{a}o Paulo: uma an\'{a}lise de Campinas e Jundia\'{i}},
+  year         = {2018},
+  howpublished = {Ms. Projeto de Mestrado. IEL/UNICAMP},
+}
+
 @Article{MGS17Pretonicas,
   author       = {Meireles, Alexsandro Rodrigues and Gambarini, Viviany de Paula and Maria Marta Pereira Scherre},
   journaltitle = {Letras de Hoje},
@@ -7560,13 +7574,6 @@
   year         = {2017},
   number       = {1},
   pages        = {58--67},
-}
-
-@Misc{Santos22ProjetoIC,
-  author       = {Santos, Iris Massuci Dutra},
-  title        = {Acomoda\c{c}\~{a}o dialetal na fala de migrantesmaranhenses, cearenses e piauienses na Regi\~{a}o Metropolitana de Campinas},
-  year         = {2022},
-  howpublished = {Ms. Projeto de Inicia\c{c}\~{a}o Cient\'{i}fica. IEL/UNICAMP.},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
