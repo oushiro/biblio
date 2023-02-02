@@ -4044,7 +4044,7 @@
 
 @Misc{Oushiro16ProjFAPESP,
   author = {Oushiro, Livia},
-  title  = {Projeto {P}rocessos de {A}comoda\c{c}\~{a}o {D}ialetal na {F}ala de {N}ordestinos {R}esidentes em {S}\~{a}o {P}aulo},
+  title  = {Projeto {P}rocessos de {A}comoda\c{c}\~{a}o {D}ialetal na {F}ala de {N}ordestinos {R}esidentes em {S}\~{a}o {P}aulo ({FAPESP} 2016/04960-7)},
   year   = {2016},
 }
 
@@ -6620,7 +6620,7 @@
   booktitle = {Proceedings of the 19th International Congress of Phonetic Sciences},
   title     = {Linguistic uniformity in the speech of {B}razilian internal migrants in a dialect contact situation},
   year      = {2019},
-  editor    = {Sasha Calhoun, and Paola Escudero, and Marija Tabain, and Paul Warren},
+  editor    = {Sasha Calhoun and Paola Escudero and Marija Tabain and Paul Warren},
   pages     = {686--690},
 }
 
@@ -7450,7 +7450,7 @@
 @Article{ChaSea21,
   author       = {Chaves, Maria Lu\'{i}za Horneaux de Almeida and Izabel Christine Seara},
   journaltitle = {Caligrama,},
-  title        = {Estudo sociofon\'{e}tico dos r\'{o}ticos no Vale de Itaja\'{i} emSanta Catarina},
+  title        = {Estudo sociofon\'{e}tico dos r\'{o}ticos no Vale de Itaja\'{i} em Santa Catarina},
   volume       = {26},
   year         = {2021},
   number       = {2},
@@ -7554,7 +7554,7 @@
 
 @Misc{Santos22ProjetoIC,
   author       = {Santos, Iris Massuci Dutra},
-  title        = {Acomoda\c{c}\~{a}o dialetal na fala de migrantesmaranhenses, cearenses e piauienses na Regi\~{a}o Metropolitana de Campinas},
+  title        = {Acomoda\c{c}\~{a}o dialetal na fala de migrantes maranhenses, cearenses e piauienses na Regi\~{a}o Metropolitana de Campinas},
   year         = {2022},
   howpublished = {Ms. Projeto de Inicia\c{c}\~{a}o Cient\'{i}fica. IEL/UNICAMP.},
 }
@@ -7591,6 +7591,7 @@
   title        = {Evaluation of a technique for improving the mapping of multiple speakers' vowel spaces in the F1 \~ F2 plane},
   volume       = {9},
   year         = {2002},
+  editor       = {D. Nelson},
   pages        = {159--173},
 }
 
