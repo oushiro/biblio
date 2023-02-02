@@ -7576,6 +7576,24 @@
   pages        = {58--67},
 }
 
+@Article{Nycz15,
+  author       = {Nycz, Jennifer},
+  journaltitle = {Language and Linguistics Compass},
+  title        = {Second dialect acquisition: A sociophonetic perspective},
+  volume       = {9},
+  year         = {2015},
+  pages        = {469--482},
+}
+
+@Article{WatFab02,
+  author       = {Watt, Dominic and Fabricius, Anne},
+  journaltitle = {Leeds Working Papers in Linguistics and Phonetics},
+  title        = {Evaluation of a technique for improving the mapping of multiple speakers' vowel spaces in the F1 \~ F2 plane},
+  volume       = {9},
+  year         = {2002},
+  pages        = {159--173},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
