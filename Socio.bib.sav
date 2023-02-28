@@ -7078,6 +7078,7 @@
   date       = {2023},
   title      = {Posf\'{a}cio},
   year       = {2023},
+  pages      = {380--389},
   publisher  = {Editora da {ABRALIN}},
   bookauthor = {Oushiro, Livia},
 }
@@ -7604,6 +7605,13 @@
   bdsk-url-1   = {http://www.R-project.org/},
   owner        = {Livia},
   timestamp    = {2014.02.11},
+}
+
+@Book{Healy19,
+  author    = {Healy, Kieran},
+  title     = {Data Visualization: a practical introduction},
+  year      = {2019},
+  publisher = {Princeton University Press},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
