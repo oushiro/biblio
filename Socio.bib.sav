@@ -7614,6 +7614,16 @@
   publisher = {Princeton, NJ: Princeton University Press},
 }
 
+@Article{Meredith19,
+  author       = {Meredith, Joanne},
+  journaltitle = {Research on language and social interaction},
+  title        = {Conversation analysis and online interaction},
+  volume       = {52},
+  year         = {2019},
+  number       = {3},
+  pages        = {241--256},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
