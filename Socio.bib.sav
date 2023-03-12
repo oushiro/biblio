@@ -7642,4 +7642,11 @@
   howpublished = {Ms. Projeto de P\'{o}s-Doutorado. IEL/UNICAMP.},
 }
 
+@Misc{Zhu22projDoutorado,
+  author       = {Ruizhi Zhu},
+  title        = {A interfer\^{e}ncia lingu\'{i}stica no contato entre chineses e brasileiros na cidade de {S}\~{a}o {P}aulo: uma abordagem etnogr\'{a}fica},
+  year         = {2022},
+  howpublished = {Ms. Projeto de Doutorado ({FAPESP} 2022/09601-6). IEL/UNICAMP.},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
