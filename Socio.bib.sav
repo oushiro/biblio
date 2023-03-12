@@ -7288,10 +7288,11 @@
 
 @InCollection{OushiroGURT,
   author    = {Oushiro, Livia},
-  booktitle = {Proceedings of the Georgetown University Roundtable 2022},
-  title     = {Interaction, confounding effect, and multicollinearity in the analysis of Brazilian internal migrants’ speech},
+  booktitle = {Dialect Contact: Speaker-level and Dialect-level Phenomena},
+  title     = {Interaction, confounding effect, and collinearity in the analysis of Brazilian internal migrants’ speech},
   year      = {no prelo},
-  editor    = {Nycz, Jennifer and Fern\'{a}ndez-Mallat, Victor},
+  editor    = {Fern\'{a}ndez-Mallat, Victor and Nycz, Jennifer},
+  publisher = {Georgetown University Press.},
 }
 
 @Misc{Barbosa22TCC,
@@ -7557,7 +7558,7 @@
   author       = {Santos, Iris Massuci Dutra},
   title        = {Acomoda\c{c}\~{a}o dialetal na fala de migrantes maranhenses, cearenses e piauienses na Regi\~{a}o Metropolitana de Campinas},
   year         = {2022},
-  howpublished = {Ms. Projeto de Inicia\c{c}\~{a}o Cient\'{i}fica. IEL/UNICAMP.},
+  howpublished = {Ms. Projeto de Inicia\c{c}\~{a}o Cient\'{i}fica {CNPq/PIBIC}. IEL/UNICAMP.},
 }
 
 @Misc{Mourao18,
@@ -7634,11 +7635,11 @@
   journal = {Dom\'{i}nios da Lingu@gem},
 }
 
-@Comment{jabref-meta: databaseType:biblatex;}
-
-@Comment{jabref-meta: grouping:
-0 AllEntriesGroup:;
-1 StaticGroup:Markin gs\;2\;1\;\;\;\;;
-2 StaticGroup:Livia:6\;2\;1\;\;\;\;;
-2 StaticGroup:[Li via:]\;2\;1\;\;\;\;;
+@Misc{Oliveira22projPosDoc,
+  author       = {Oliveira, Almir Almeida de},
+  title        = {Contato lingu\'{i}stico e dialetal: como falam os alagoanos que retornaram de {S}\~{a}o {P}aulo},
+  year         = {2022},
+  howpublished = {Ms. Projeto de P\'{o}s-Doutorado. IEL/UNICAMP.},
 }
+
+@Comment{jabref-meta: databaseType:biblatex;}
