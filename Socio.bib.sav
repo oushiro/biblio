@@ -5228,10 +5228,11 @@
 	Title = {A nega\c{c}\~{a}o no contato entre dialetos},
 	Year = {2009}}
 
-@misc{Souza19,
-	Author = {Souza, Emerson Santos de},
-	Title = {Mudan\c{c}as adaptativas na fala de migrantes baianos residentes em {S}\~{a}o {P}aulo quanto ao uso de itens lexicais tipicamente paulistas},
-	Year = {2019}}
+@Misc{Souza19lexico,
+  author = {Souza, Emerson Santos de},
+  title  = {Mudan\c{c}as adaptativas na fala de migrantes baianos residentes em {S}\~{a}o {P}aulo quanto ao uso de itens lexicais tipicamente paulistas},
+  year   = {2019},
+}
 
 @misc{Souza17,
 	Author = {Souza, Emerson Santos de},
@@ -7625,7 +7626,7 @@
   journal = {Research on language and social interaction},
 }
 
-@Article{Souza19,
+@Article{Souza19Dominios,
   author  = {Souza, Emerson Santos de},
   title   = {O uso vari\'{a}vel do imperativo de migrantes baianos em {S}\~{a}o {P}aulo},
   volume  = {13},
