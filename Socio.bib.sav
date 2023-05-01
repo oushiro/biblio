@@ -7657,4 +7657,11 @@
   note   = {Tese de Doutorado (IEL/UNICAMP)},
 }
 
+@Misc{Oushiro22,
+  author       = {Oushiro, Livia},
+  title        = {Non-lexical filled pauses in eh... Brazilian Portuguese dialectal contact},
+  year         = {2022},
+  howpublished = {Paper presented at NWAV50, Stanford-CA.},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
