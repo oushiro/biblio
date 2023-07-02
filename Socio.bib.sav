@@ -7688,4 +7688,22 @@
   month     = may,
 }
 
+@Article{Tagliamonte14,
+  author  = {Tagliamonte, Sali},
+  title   = {Situating media influence in sociolinguistic context},
+  volume  = {18},
+  year    = {2014},
+  doi     = {10.1111/josl.12074},
+  journal = {Journal of Sociolinguistics},
+  month   = {04},
+}
+
+@Misc{Oushiro21Indissociabilidade,
+  author       = {Oushiro, Livia},
+  date         = {2021-11-05},
+  title        = {A indissociabilidade entre quest\~{o}es, teoria e m\'{e}todo},
+  year         = {2021},
+  howpublished = {Confer\^{e}ncia apresentada no {V Instituto de Estudos Lingu\'{i}sticos}: Linguagem e fronteiras},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
