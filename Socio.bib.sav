@@ -7742,4 +7742,39 @@
   year   = {2019},
 }
 
+@Book{Henrique23,
+  author    = {Henrique, Pedro Felipe de Lima},
+  title     = {Percep\c{c}\~{o}es sociolingu\'{i}sticas interdialetais: o /s/ em coda sil\'{a}bica no portugu\^{e}s brasileiro},
+  year      = {2023},
+  publisher = {Tese de Doutorado. {J}o\~{a}o {P}essoa: {UFPB}},
+}
+
+@Book{Oliveira18TeseLaurentino,
+  author    = {Oliveira, Thiago Laurentino},
+  title     = {L\'{i}ngua e percep\c{c}\~{a}o: o processamento dos cl\'{i}ticos com refer\^{e}ncia ao interlocutor no {P}ortugu\^{e}s {B}rasileiro},
+  year      = {2018},
+  publisher = {Tese de Doutorado. {R}io de {J}aneiro: {UFRJ}},
+}
+
+@Book{Pie23,
+  author    = {Pie, Isabel},
+  title     = {Percep\c{c}\~{a}o de vozes masculinas: Efeitos da concord\^{a}ncia nominal, da dura\c{c}\~{a}o de /-s/, da frequ\^{e}ncia fundamental e de atitudes sobre masculinidades},
+  year      = {2023},
+  publisher = {Disserta\c{c}\~{a}o de Mestrado. S\~{a}o Paulo: {FFLCH-USP}},
+}
+
+@Book{Melo17,
+  author    = {Melo, Marcelo Alexandre Silva Lopes de},
+  title     = {Direcionalidade da mudan\c{c}a sonora: o papel do item lexical e da avalia\c{c}\~{a}o social},
+  year      = {2017},
+  publisher = {Tese de Doutorado. {R}io de {J}aneiro: {UFRJ}},
+}
+
+@Book{Oliveira22TeseIngliding,
+  author    = {Oliveira, Samuel Gomes de},
+  title     = {Significa\c{c}\~{a}o social do ingliding do falar porto-alegrense: percep\c{c}\~{a}o e avalia\c{c}\~{a}o lingu\'{i}stica},
+  year      = {2022},
+  publisher = {Tese de Doutorado. Porto Alegre: {UFRGS}},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
