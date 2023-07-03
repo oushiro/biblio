@@ -7864,4 +7864,11 @@
   publisher = {Salvador: {EDUFBA}},
 }
 
+@Book{Labov75,
+  author    = {Labov, William},
+  title     = {What is a linguistic fact?},
+  year      = {1975},
+  publisher = {Lisse: The Peter de Ridder Press},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
