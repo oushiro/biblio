@@ -7855,4 +7855,13 @@
   publisher = {Porto Alegre: {EDIPUCRS}},
 }
 
+@InCollection{Mendes20Genero,
+  author    = {Mendes, Ronald Beline},
+  booktitle = {G\^{e}nero e Lingua(gem): Formas e Usos},
+  title     = {Percep\c{c}\~{o}es de masculinidade e femininidade associadas \`{a} concordância nominal de n\'{u}mero},
+  year      = {2020},
+  pages     = {67--93},
+  publisher = {Salvador: {EDUFBA}},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
