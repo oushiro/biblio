@@ -7824,6 +7824,7 @@
   volume       = {37},
   year         = {2022},
   number       = {73},
+  pages        = {80--101},
 }
 
 @Article{Melo22,
@@ -7834,6 +7835,24 @@
   year         = {2022},
   number       = {73},
   pages        = {102--124},
+}
+
+@Article{CanMen19,
+  author       = {Canever, Fernanda and Mendes, Ronald Beline},
+  journaltitle = {Revista de Estudos da Linguagem},
+  title        = {Infinitive verbs, verbal agreement and perceived competence},
+  volume       = {27},
+  year         = {2019},
+  pages        = {1671--1700},
+}
+
+@InCollection{Mendes20SocionoBrasil,
+  author    = {Mendes, Ronald Beline},
+  booktitle = {Sociolingu\'{i}stica no {B}rasil: textos selecionados},
+  title     = {({CN}) e ({EN}) em percep\c{c}\~{o}es de compet\^{e}ncia, g\^{e}nero e paulistanidade},
+  year      = {2020},
+  pages     = {241--264},
+  publisher = {Porto Alegre: {EDIPUCRS}},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
