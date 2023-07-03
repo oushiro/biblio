@@ -7881,7 +7881,7 @@
 
 @InProceedings{Anselmial13,
   author = {Pasquale Anselmi and Michelangelo Vianello and Luca Stefanutti and Egidio Robusto},
-  title  = {A POISSON RACE MODEL FOR THE ANALYSIS OF THE IMPLICIT ASSOCIATION TEST},
+  title  = {A Poisson race model for the analysis of the Implicit Association Test},
   year   = {2013},
 }
 
