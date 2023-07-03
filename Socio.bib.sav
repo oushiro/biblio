@@ -7871,4 +7871,18 @@
   publisher = {Lisse: The Peter de Ridder Press},
 }
 
+@Misc{Sousa18,
+  author       = {Sousa, Flavia Cristina Pereira de},
+  title        = {Um estudo sobre percep\c{c}\~{o}es sociolingu\'{i}sticas de universit\'{a}rios (Relat\'{o}rio Final)},
+  year         = {2018},
+  howpublished = {Ms.},
+  type         = {techreport},
+}
+
+@InProceedings{Anselmial13,
+  author = {Pasquale Anselmi and Michelangelo Vianello and Luca Stefanutti and Egidio Robusto},
+  title  = {A POISSON RACE MODEL FOR THE ANALYSIS OF THE IMPLICIT ASSOCIATION TEST},
+  year   = {2013},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
