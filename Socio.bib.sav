@@ -7263,12 +7263,13 @@
   publisher = {Malden, MA: Wiley-Blackwell},
 }
 
-@Misc{SilOusprelo,
-  author = {Silveira, Gustavo de Campos Pinheiro da and Oushiro, Livia},
-  editor = {Barbosa, Plinio and Raso, Tommaso},
-  title  = {Sociofon\'{e}tica},
-  year   = {no prelo},
-  note   = {Verbetes LBASS},
+@InCollection{SilOus22,
+  author    = {Silveira, Gustavo de Campos Pinheiro da and Oushiro, Livia},
+  booktitle = {Speech Science Entries},
+  title     = {Sociofon\'{e}tica},
+  year      = {2022},
+  note      = {Speech Prosody Studies Group},
+  url       = {https://gepf.falar.org/entries/45},
 }
 
 @InCollection{GOM22,
@@ -7820,7 +7821,7 @@
 @Article{RocPac22,
   author       = {Rocha, Warley Jos\'{e} Campos and Pacheco, Vera},
   journaltitle = {Organon},
-  title        = {Entre sibilos e chiados do /s/ em coda sil\'{a}bica: um estudo sociofon\'{e}tico de percep\c{c}\~{a} dialetal na {B}ahia},
+  title        = {Entre sibilos e chiados do /s/ em coda sil\'{a}bica: um estudo sociofon\'{e}tico de percep\c{c}\~{a}o dialetal na {B}ahia},
   volume       = {37},
   year         = {2022},
   number       = {73},
